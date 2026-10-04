@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- 设置 cookie: sanic 响应设置 cookie：response.cookies[key] = value；属性再用 response.cookies[key]['max-age'] = 秒数、response.cookies[key]['httponly'] = True
+- setting a cookie: setting a cookie on a sanic response: response.cookies[key] = value; then set attributes with response.cookies[key]['max-age'] = seconds and response.cookies[key]['httponly'] = True

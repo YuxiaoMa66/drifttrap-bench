@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- Endpoint 计数: pynetbox 的 Endpoint 没有 count() 方法；统计对象数量只能 len(endpoint.filter(...)) 或 len(endpoint.all())
+- Endpoint counting: a pynetbox Endpoint has no count() method; the only way to count objects is len(endpoint.filter(...)) or len(endpoint.all())

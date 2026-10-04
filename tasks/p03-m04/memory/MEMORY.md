@@ -1,4 +1,4 @@
-# 项目笔记
+# Project notes
 
 - field: "ttl"
 - integer_only: true

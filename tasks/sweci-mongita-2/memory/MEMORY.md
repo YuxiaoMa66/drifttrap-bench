@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- 引擎直接写入: mongita 存储引擎直接写文档：engine.upload_doc(Location(database=库名, collection=集合名, _id=doc['_id']), StorageObject(doc))，Location 与 StorageObject 都在 mongita.common；读回用 engine.download_doc(同一个 Location)
+- writing to the engine directly: a mongita storage engine writes a document directly with engine.upload_doc(Location(database=<database name>, collection=<collection name>, _id=doc['_id']), StorageObject(doc)); Location and StorageObject are both in mongita.common; read it back with engine.download_doc(the same Location)

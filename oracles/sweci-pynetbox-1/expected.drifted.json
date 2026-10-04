@@ -1,7 +1,7 @@
 {
   "case_id": "sweci-pynetbox-1",
   "drifted_keys": [
-    "Request 构造参数"
+    "Request constructor arguments"
   ],
   "trap_signature": "http_session"
 }

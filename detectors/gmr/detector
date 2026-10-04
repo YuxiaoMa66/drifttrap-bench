@@ -1,0 +1,59 @@
+#!/usr/bin/env python3
+"""DriftTrap detector adapter for GMR (Grounded Memory Runtime). Contract: detectors/README.md.
+
+Binary: $GMR_BIN, else <bench>/../GMR-latest/target/release/gmr (GMR 7bee2a0 + patch/, as in v1).
+This adapter reproduces what arms/assemble.py did in v1: `gmr init`, one `gmr anchor` per memory
+with the note bound, and `gmr check --json`, whose hand-backs are mapped back to memory keys.
+"""
+import argparse
+import json
+import os
+import subprocess
+import sys
+from pathlib import Path
+
+BENCH = Path(__file__).resolve().parents[2]
+GMR = Path(os.environ.get("GMR_BIN", BENCH.parent / "GMR-latest/target/release/gmr"))
+HINT = "There is a gmr command on PATH that can check whether the locations behind the notes have changed; usage is in .claude/skills/gmr/SKILL.md.\n\n"
+
+
+def gmr(args: list[str], cwd: Path, ok=(0,)) -> str:
+    result = subprocess.run([str(GMR), *args], cwd=cwd, capture_output=True, text=True)
+    if result.returncode not in ok:
+        sys.exit(f"gmr {args[0]} failed ({result.returncode}): {result.stderr.strip()[:400]}")
+    return result.stdout
+
+
+def anchored_keys(anchors: list[dict], report: dict) -> list[str]:
+    """Map `gmr check` anchor names back to memory keys. `file://` anchors are named by --as, with
+    `_` turned into `-`; path anchors ignore --as and are named by their coordinate (l1/REGRESSIONS.md R4)."""
+    by_name = {a["key"].replace("_", "-"): a["key"] for a in anchors}
+    by_name.update({a["coordinate"]: a["key"] for a in anchors})
+    by_name.update({a["name"].replace("_", "-"): a["key"] for a in anchors if "name" in a})
+    return list(dict.fromkeys(by_name.get(h["anchor"], h["anchor"]) for h in report["handed_back"]))
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    parser.add_argument("command", choices=("info", "setup", "check"))
+    parser.add_argument("--workspace", type=Path)
+    parser.add_argument("--anchors", type=Path)
+    args = parser.parse_args()
+    if args.command == "info":
+        version = subprocess.run([str(GMR), "--version"], capture_output=True, text=True).stdout.strip()
+        print(json.dumps({"label": "GMR", "version": version, "tool_path": str(GMR.parent), "tool_hint": HINT}))
+        return 0
+    anchors = json.loads(args.anchors.read_text(encoding="utf-8"))
+    if args.command == "setup":
+        gmr(["init", "--json"], args.workspace)
+        for a in anchors:  # GMR needs an ASCII-derivable --as name
+            gmr(["anchor", a["coordinate"], "--as", a.get("name", a["key"]), "-m", a["note"], "--json"], args.workspace)
+        return 0
+    report = json.loads(gmr(["check", "--json"], args.workspace, ok=(0, 1)))
+    unseen = report.get("unseen", [])
+    print(json.dumps({"drifted": anchored_keys(anchors, report), "unseen": len(unseen), "report": report}, ensure_ascii=False))
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

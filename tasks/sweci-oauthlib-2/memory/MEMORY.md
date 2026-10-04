@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- oauth1 Client 解码: oauthlib.oauth1.rfc5849.Client(client_key, client_secret=None, ..., convert_to_unicode=False, encoding='utf-8')；密钥是 bytes 时要 convert_to_unicode=True
+- oauth1 Client decoding: oauthlib.oauth1.rfc5849.Client(client_key, client_secret=None, ..., convert_to_unicode=False, encoding='utf-8'); set convert_to_unicode=True when the keys are bytes

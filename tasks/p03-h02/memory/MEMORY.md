@@ -1,4 +1,4 @@
-# 项目笔记
+# Project notes
 
 - endpoint: "us.api"
 - region: "us-east"

@@ -1,5 +1,5 @@
 //! L0-STORE-1: a damaged `.anchor` store must make `gmr check` fail loudly, never panic and never
-//! report a clean result (TEST_PLAN 4, L0 item 3 "损坏的 SQLite", black-box over the real binary).
+//! report a clean result (TEST_PLAN 4, L0 item 3 "corrupted SQLite", black-box over the real binary).
 //! Damage: overwrite random byte ranges or truncate `memory.db`, `survey-index.sqlite`,
 //! `anchors.toml` or `probes.toml`. A drifted anchor exists before the damage, so "exit 0 with an
 //! empty hand-back" would be a silent loss of the drift.

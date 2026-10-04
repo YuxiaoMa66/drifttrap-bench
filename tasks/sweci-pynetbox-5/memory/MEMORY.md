@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- RequestError 属性: pynetbox.core.query.RequestError 的属性：req、request_body、url（失败请求的 URL）、error（响应文本）
+- RequestError attributes: attributes of pynetbox.core.query.RequestError: req, request_body, url (the URL of the failed request), error (the response text)

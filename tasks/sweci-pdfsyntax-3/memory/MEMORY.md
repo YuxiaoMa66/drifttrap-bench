@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- PDF 对象引用: pdfsyntax 里 trailer 在 doc.cache[0]，键是 bytes；间接引用表示为 {'_REF': b'<对象号>'}，例如 doc.cache[0][b'/Root'] == {'_REF': b'1'}
+- PDF indirect objects: in pdfsyntax the trailer is doc.cache[0] and its keys are bytes; an indirect object is written {'_REF': b'<object number>'}, for example doc.cache[0][b'/Root'] == {'_REF': b'1'}

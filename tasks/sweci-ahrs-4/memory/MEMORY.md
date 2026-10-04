@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- 欧氏距离: ahrs.utils.metrics.euclidean(x, y, **kwargs)：kwargs 透传给 np.linalg.norm，按行求距离时传 axis=1
+- Euclidean distance: ahrs.utils.metrics.euclidean(x, y, **kwargs): kwargs are passed through to np.linalg.norm; pass axis=1 for row-wise distances

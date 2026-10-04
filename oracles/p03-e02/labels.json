@@ -1,5 +1,5 @@
 {
-  "schema": "gmr-drift-bench-l1-labels.v1",
+  "schema": "drifttrap-l1-labels.v1",
   "anchors": [
     {
       "key": "mode",

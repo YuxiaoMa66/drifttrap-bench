@@ -1,7 +1,7 @@
 {
   "case_id": "sweci-oauthlib-3",
   "drifted_keys": [
-    "validate_scopes 签名"
+    "validate_scopes signature"
   ],
   "trap_signature": "positional argument"
 }

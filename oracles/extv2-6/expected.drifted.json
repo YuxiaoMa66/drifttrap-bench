@@ -1,7 +1,7 @@
 {
   "case_id": "extv2-6",
   "drifted_keys": [
-    "结账流程版本"
+    "checkout flow variant"
   ],
   "trap_signature": "amber"
 }

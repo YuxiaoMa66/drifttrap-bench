@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- Cookie 编码: sanic 的 Cookie 有 encode(encoding) 方法，cookie.encode('utf-8') 直接得到 Set-Cookie 头值的字节串
+- Cookie encoding: a sanic Cookie has an encode(encoding) method; cookie.encode('utf-8') gives the Set-Cookie header value as bytes directly

@@ -1,4 +1,4 @@
-# 项目笔记
+# Project notes
 
 - timeout: 60
 - mode: "prod"

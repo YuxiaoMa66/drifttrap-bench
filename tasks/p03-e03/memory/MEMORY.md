@@ -1,4 +1,4 @@
-# 项目笔记
+# Project notes
 
 - endpoint: "/v1/pay"
 - env: "PAY_URL"

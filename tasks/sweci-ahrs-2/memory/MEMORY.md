@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- 大地坐标转 ECEF: ahrs.common.frames.geo2rect(lon, lat, h, r, ecc)：大地坐标转 ECEF（先经度后纬度，角度用弧度，r 用赤道半径）
+- geodetic to ECEF: ahrs.common.frames.geo2rect(lon, lat, h, r, ecc): geodetic to ECEF (longitude first, then latitude; angles in radians; r is the equatorial radius)

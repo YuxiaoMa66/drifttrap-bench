@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- PDF 页列表: pdfsyntax 读页：doc = pdfsyntax.read_pdf(path)；页面列表用 pdfsyntax.docstruct.build_page_list(doc)（返回页面 dict 的列表）
+- PDF page list: reading pages with pdfsyntax: doc = pdfsyntax.read_pdf(path); the page list is pdfsyntax.docstruct.build_page_list(doc) (returns a list of page dicts)

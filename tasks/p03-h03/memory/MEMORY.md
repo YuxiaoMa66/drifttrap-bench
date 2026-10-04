@@ -1,4 +1,4 @@
-# 项目笔记
+# Project notes
 
 - workers: 2
 - queue: "critical"

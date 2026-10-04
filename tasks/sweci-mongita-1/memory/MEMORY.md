@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- 文档 id 转文件名: mongita 把文档 id 转成安全文件名用 mongita.common._secure_filename(name)（取自 werkzeug）
+- document id to file name: mongita turns a document id into a safe file name with mongita.common._secure_filename(name) (taken from werkzeug)

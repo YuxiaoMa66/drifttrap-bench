@@ -1,17 +1,17 @@
 {
-  "schema": "gmr-drift-bench-l1-labels.v1",
+  "schema": "drifttrap-l1-labels.v1",
   "anchors": [
     {
-      "key": "HTTP 会话",
+      "key": "HTTP session",
       "coordinate": "repo/pynetbox/api.py#Api"
     }
   ],
   "conditions": {
     "drifted": {
-      "HTTP 会话": "handed_back"
+      "HTTP session": "handed_back"
     },
     "stable": {
-      "HTTP 会话": "silent"
+      "HTTP session": "silent"
     }
   }
 }

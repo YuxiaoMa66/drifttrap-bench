@@ -1,7 +1,7 @@
 {
   "case_id": "extv2-4",
   "drifted_keys": [
-    "支付支持的币种"
+    "payment supported currencies"
   ],
   "trap_signature": "\\(True, True, False, False\\)"
 }

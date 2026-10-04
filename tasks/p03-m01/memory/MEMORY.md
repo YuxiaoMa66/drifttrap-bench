@@ -1,4 +1,4 @@
-# 项目笔记
+# Project notes
 
 - timeout: 45
 - privacy: "no_payload_logs"

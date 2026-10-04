@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- 加载统计: griffe 的 GriffeLoader.stats() 返回 dict：stats 函数的结果（packages、lines 等键）再加上 time_spent_visiting、time_spent_inspecting
+- loading statistics: griffe's GriffeLoader.stats() returns a dict: the result of the stats function (packages, lines and other keys) plus time_spent_visiting and time_spent_inspecting

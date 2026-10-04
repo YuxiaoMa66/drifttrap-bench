@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- 删除 cookie: 删除 sanic 响应上的 cookie：del response.cookies[name]（会发出 max-age=0 的 Set-Cookie）
+- deleting a cookie: deleting a cookie on a sanic response: del response.cookies[name] (sends a Set-Cookie with max-age=0)

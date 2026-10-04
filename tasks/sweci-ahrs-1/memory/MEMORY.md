@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- ECEF 转经纬高: ahrs.common.frames.ecef2lla(ecef, f=..., a=...)：传一个长度为 3 的 ECEF 数组，返回 [纬度, 经度, 高度]
+- ECEF to latitude/longitude/height: ahrs.common.frames.ecef2lla(ecef, f=..., a=...): pass an ECEF array of length 3, get back [latitude, longitude, height]

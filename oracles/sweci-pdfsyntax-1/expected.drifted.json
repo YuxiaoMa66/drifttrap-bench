@@ -1,7 +1,7 @@
 {
   "case_id": "sweci-pdfsyntax-1",
   "drifted_keys": [
-    "PDF 页列表"
+    "PDF page list"
   ],
   "trap_signature": "build_page_list"
 }

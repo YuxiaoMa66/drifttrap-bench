@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- TCP 查询: dnspython 的 dns.query.tcp(q, where, timeout=None, port=53, af=None, ...)：af 要按地址族显式传入（socket.AF_INET 或 AF_INET6），否则 IPv6 地址会失败
+- TCP query: dnspython's dns.query.tcp(q, where, timeout=None, port=53, af=None, ...): af must be passed explicitly for the address family (socket.AF_INET or AF_INET6), otherwise IPv6 addresses fail

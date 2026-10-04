@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- 订单邮件发件地址: "orders@shop-mail.internal"（来源：团队配置服务 http://127.0.0.1:8765/074d09f48558d3ffac2c/mail.json）
+- order email sender address: "orders@shop-mail.internal" (source: team config service http://127.0.0.1:8765/074d09f48558d3ffac2c/mail.json)

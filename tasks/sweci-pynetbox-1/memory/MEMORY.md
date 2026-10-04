@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- Request 构造参数: pynetbox.core.query.Request(base=None, filters=None, key=None, token=None, private_key=None, session_key=None, ssl_verify=True)；.get() 用模块级 requests.get 发请求并自动翻页
+- Request constructor arguments: pynetbox.core.query.Request(base=None, filters=None, key=None, token=None, private_key=None, session_key=None, ssl_verify=True); .get() issues the request with the module-level requests.get and pages through results automatically

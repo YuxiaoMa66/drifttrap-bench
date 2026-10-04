@@ -1,7 +1,7 @@
 {
   "case_id": "sweci-pdfsyntax-2",
   "drifted_keys": [
-    "PDF 页面字典"
+    "PDF page dict"
   ],
   "trap_signature": "build_page_list|KeyError: b'/MediaBox'"
 }

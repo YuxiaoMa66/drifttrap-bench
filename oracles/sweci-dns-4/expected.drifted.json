@@ -1,7 +1,7 @@
 {
   "case_id": "sweci-dns-4",
   "drifted_keys": [
-    "TCP 查询"
+    "TCP query"
   ],
   "trap_signature": "unexpected keyword argument 'af'"
 }

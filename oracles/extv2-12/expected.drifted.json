@@ -1,7 +1,7 @@
 {
   "case_id": "extv2-12",
   "drifted_keys": [
-    "订单邮件发件地址"
+    "order email sender address"
   ],
   "trap_signature": "orders@shop-mail"
 }

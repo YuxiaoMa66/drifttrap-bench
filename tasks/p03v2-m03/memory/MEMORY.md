@@ -1,4 +1,4 @@
-# 项目笔记
+# Project notes
 
 - effective_release: "v2"
 - max_attempts: 8

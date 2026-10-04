@@ -1,7 +1,7 @@
 {
   "case_id": "ext-1",
   "drifted_keys": [
-    "支付服务 base_url"
+    "payment service base_url"
   ],
   "trap_signature": "pay\\.internal/v1"
 }

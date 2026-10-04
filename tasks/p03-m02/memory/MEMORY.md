@@ -1,4 +1,4 @@
-# 项目笔记
+# Project notes
 
 - staging_cache: "forbidden"
 - production_disk_cache: "forbidden"

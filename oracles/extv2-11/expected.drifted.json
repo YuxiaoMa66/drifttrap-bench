@@ -1,7 +1,7 @@
 {
   "case_id": "extv2-11",
   "drifted_keys": [
-    "购物车件数上限"
+    "cart item limit"
   ],
   "trap_signature": "\\(True, False\\)"
 }

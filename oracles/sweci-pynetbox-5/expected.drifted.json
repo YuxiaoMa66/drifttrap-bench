@@ -1,7 +1,7 @@
 {
   "case_id": "sweci-pynetbox-5",
   "drifted_keys": [
-    "RequestError 属性"
+    "RequestError attributes"
   ],
   "trap_signature": "has no attribute 'url'"
 }

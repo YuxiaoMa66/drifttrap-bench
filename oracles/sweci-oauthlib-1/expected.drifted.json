@@ -1,7 +1,7 @@
 {
   "case_id": "sweci-oauthlib-1",
   "drifted_keys": [
-    "common.Request 解码"
+    "common.Request decoding"
   ],
   "trap_signature": "convert_to_unicode"
 }

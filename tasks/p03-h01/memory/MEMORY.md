@@ -1,4 +1,4 @@
-# 项目笔记
+# Project notes
 
 - primary_region: "us-east"
 - timeout: 50

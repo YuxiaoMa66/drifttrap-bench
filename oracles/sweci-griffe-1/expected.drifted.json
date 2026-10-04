@@ -1,7 +1,7 @@
 {
   "case_id": "sweci-griffe-1",
   "drifted_keys": [
-    "griffe 统计"
+    "griffe statistics"
   ],
   "trap_signature": "not subscriptable"
 }

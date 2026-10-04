@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- PDF 页面字典: pdfsyntax 的页面是 dict，键和值都是 bytes（数字也是 bytes，用前先 int()）：页面列表 pdfsyntax.docstruct.build_page_list(doc)，例如 build_page_list(doc)[0][b'/Type'] == b'/Page'（doc = pdfsyntax.read_pdf(path)）
+- PDF page dict: pdfsyntax pages are dicts; their keys and values are bytes (numbers are bytes too, convert them with int() first): the page list is pdfsyntax.docstruct.build_page_list(doc), for example build_page_list(doc)[0][b'/Type'] == b'/Page' (doc = pdfsyntax.read_pdf(path))

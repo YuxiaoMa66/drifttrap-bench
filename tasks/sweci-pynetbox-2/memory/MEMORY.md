@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- HTTP 会话: pynetbox 发请求直接调用模块级 requests.get/post/put/patch/delete，Api 对象不持有 requests.Session
+- HTTP session: pynetbox issues requests by calling the module-level requests.get/post/put/patch/delete directly; the Api object holds no requests.Session

@@ -1,3 +1,3 @@
-# 项目笔记
+# Project notes
 
-- Cookie 属性: sanic 的 Cookie 是 dict 子类：cookie['path']、cookie.get('secure', False)、cookie.get('samesite') 取属性
+- Cookie attributes: a sanic Cookie is a dict subclass: read attributes with cookie['path'], cookie.get('secure', False), cookie.get('samesite')
