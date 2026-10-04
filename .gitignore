@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+results/
+l0/target/
+l0/fuzz/target/
+l0/fuzz/corpus/
+l0/fuzz/artifacts/
+l0/mutants.out*/

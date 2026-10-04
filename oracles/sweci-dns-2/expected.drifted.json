@@ -1,0 +1,7 @@
+{
+  "case_id": "sweci-dns-2",
+  "drifted_keys": [
+    "记录类别转换"
+  ],
+  "trap_signature": "has no attribute 'to_enum'"
+}

@@ -1,0 +1,4 @@
+0fe53673d8e5ce9ce125cf29a91e43109fa4280e5f3c6dd4c3ad023ff8225496  target/release/gmr
+aaa8785da30e484e07a99e3c2742d1110f4e3b2ad5f681b747f4a82031d80461  ../handoff/evidence/gmr-fix-subdir/cli-workspace-root.md
+3708d538de537af39a948c35a65dab3b1d8306d2506e190fca1dd6da90889c88  ../handoff/evidence/gmr-fix-subdir/subdirectory.rs
+6b25f3f62d568f26f0f2700ab0b6061766f07b9f54340d658787221a41dc4e33  ../handoff/evidence/gmr-fix-subdir/tracked.diff

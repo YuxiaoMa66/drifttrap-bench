@@ -1,0 +1,7 @@
+{
+  "case_id": "ext-5",
+  "drifted_keys": [
+    "推荐服务超时"
+  ],
+  "trap_signature": "AssertionError: 3(\\.0)?\\s*$|3000"
+}

@@ -1,0 +1,7 @@
+{
+  "case_id": "extv2-5",
+  "drifted_keys": [
+    "推荐服务超时"
+  ],
+  "trap_signature": "2\\.75|2750"
+}

@@ -1,0 +1,18 @@
+[package]
+name = "gmr-l0"
+version = "0.1.0"
+edition = "2024"
+publish = false
+description = "L0 mechanism tests for GMR (TEST_PLAN 4). Path-depends on GMR-latest; never modifies it."
+
+# Standalone: not part of the GMR workspace.
+[workspace]
+
+[dependencies]
+gmr-core = { path = "../../GMR-latest/crates/gmr-core" }
+gmr-transport = { path = "../../GMR-latest/batteries/transport", features = ["file"] }
+serde_json = "1"
+
+[dev-dependencies]
+proptest = "1"
+tempfile = "3"

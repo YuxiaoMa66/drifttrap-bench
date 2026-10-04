@@ -1,0 +1,7 @@
+{
+  "case_id": "extv2-7",
+  "drifted_keys": [
+    "webhook 签名头"
+  ],
+  "trap_signature": "X-Hook-Sig-3"
+}

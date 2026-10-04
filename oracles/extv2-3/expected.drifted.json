@@ -1,0 +1,7 @@
+{
+  "case_id": "extv2-3",
+  "drifted_keys": [
+    "物流服务重试策略"
+  ],
+  "trap_signature": "\\[3, 6, 12, 24\\]"
+}

@@ -1,0 +1,7 @@
+{
+  "case_id": "extv2-9",
+  "drifted_keys": [
+    "订单号格式"
+  ],
+  "trap_signature": "ORD7-"
+}

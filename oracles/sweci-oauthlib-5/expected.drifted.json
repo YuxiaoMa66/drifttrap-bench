@@ -1,0 +1,7 @@
+{
+  "case_id": "sweci-oauthlib-5",
+  "drifted_keys": [
+    "OAuth2Error.json"
+  ],
+  "trap_signature": "values to unpack"
+}

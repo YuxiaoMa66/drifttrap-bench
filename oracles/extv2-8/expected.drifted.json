@@ -1,0 +1,7 @@
+{
+  "case_id": "extv2-8",
+  "drifted_keys": [
+    "商品图片 CDN 主机"
+  ],
+  "trap_signature": "img-cdn-eu4"
+}

@@ -1,0 +1,7 @@
+{
+  "case_id": "sweci-pynetbox-4",
+  "drifted_keys": [
+    "Endpoint 计数"
+  ],
+  "trap_signature": "assert \\d+ == 25000|call_count"
+}

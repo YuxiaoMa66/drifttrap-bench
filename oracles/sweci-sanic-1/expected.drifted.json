@@ -1,0 +1,7 @@
+{
+  "case_id": "sweci-sanic-1",
+  "drifted_keys": [
+    "设置 cookie"
+  ],
+  "trap_signature": "does not support item assignment|not subscriptable"
+}

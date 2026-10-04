@@ -1,0 +1,6 @@
+diff -ruN a/repo/cookie_helpers.py b/repo/cookie_helpers.py
+--- a/repo/cookie_helpers.py	1970-01-01 01:00:00
++++ b/repo/cookie_helpers.py	2026-09-25 09:58:28
+@@ -0,0 +1,2 @@
++def logout(response):
++    del response.cookies["session"]

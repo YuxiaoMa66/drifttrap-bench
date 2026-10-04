@@ -1,0 +1,17 @@
+{
+  "schema": "gmr-drift-bench-l1-labels.v1",
+  "anchors": [
+    {
+      "key": "TCP 查询",
+      "coordinate": "repo/dns/query.py#tcp"
+    }
+  ],
+  "conditions": {
+    "drifted": {
+      "TCP 查询": "handed_back"
+    },
+    "stable": {
+      "TCP 查询": "silent"
+    }
+  }
+}

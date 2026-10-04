@@ -1,0 +1,16 @@
+# round	direction	seed	candidate	ft_decision	reason	note
+1	后向+前向	17 篇 A/B arXiv 种子（参考文献解析自 arXiv HTML）+ 6 篇有施引记录的种子（OpenAlex cites:）	后向 396 条新记录 + 前向 44 条新记录	—	—	标题层筛选；以下为进入全文者，其余 428 条以 I2/I1/I3/E5 等排除（见 REPORT）
+1	后向	2402.16797 等	Set the Clock (ACL Findings 2024)	IN		逐年时效问答，参数层；yizhongw/llm-temporal-alignment
+1	后向	2505.09569	FreshBrew (ICSE 2026 / NeurIPS DL4C 2025)	IN		Java 项目级迁移；仓库未定位
+1	后向	2406.09834/2511.21022	Model Editing for LLMs4Code: How Far are We? (ICSE 2025)	IN		代码知识过时与编辑（参数层，代码领域不属 E5）
+1	后向	2605.13045 等	EvolveBench (ACL 2025)	IN		演化知识的时间意识，参数层
+1	后向	2607.09007	On the Reproducibility of Quantum Software Defect Datasets: Bugs4Q (2606.27124)	IN		缺陷随库版本不可复现
+1	前向	CodeUpdateArena 等	Automated Test Case Repair Using Language Models (TSE 2025, TaRBench)	IN		代码演化导致测试破损；Ahmadreza-SY/TaRGET 无 LICENSE
+1	前向	CODEMENV/LibEvolutionEval	CoUpJava (MSR 2025)	IN		Java 代码升级历史数据集；uw-swag/CoUpJava Apache-2.0
+1	前向	VersiCode 等	Environment-Aware Code Generation: How far are We? (2601.12262)	IN		面向指定环境/版本生成可执行代码；仓库未定位
+1	后向	—	Exploring continual learning for code generation models (ACL 2023)	EX	I2	代码任务流，无失效条件（OpenAlex 标题匹配错误，按原文判定）
+1	后向	—	On the generalizability of DL code completion across Java versions	EX	I1	研究，无发布资源；CodeT5
+1	后向	—	PyMigBench (MSR 2023)	EX	I3	面向迁移工具，非 LLM
+1	前向	—	An Empirical Study on Leveraging LLMs for Metamodels and Code Co-evolution	EX	I1	研究，无发布资源
+2	后向+前向	CoUpJava（第一轮唯一新增 B 级）	28 条参考文献；0 条施引	—	—	≥2023 且未知者仅 “Evaluating Human-AI Partnership for LLM-based Code Migration”（CHI EA 2024，研究，I1）
+2	—	—	新增纳入 0 条	—	—	满足停止规则：第二轮无新增

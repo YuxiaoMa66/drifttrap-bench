@@ -1,0 +1,9 @@
+diff -ruN a/repo/nav_helpers.py b/repo/nav_helpers.py
+--- a/repo/nav_helpers.py	1970-01-01 01:00:00
++++ b/repo/nav_helpers.py	2026-09-25 09:58:30
+@@ -0,0 +1,5 @@
++from ahrs.common.frames import ecef2lla
++
++
++def to_lla(ecef):
++    return ecef2lla(*ecef)

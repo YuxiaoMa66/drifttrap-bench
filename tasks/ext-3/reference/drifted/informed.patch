@@ -1,0 +1,6 @@
+diff -ruN a/repo/shop/clients/shipping.py b/repo/shop/clients/shipping.py
+--- a/repo/shop/clients/shipping.py	1970-01-01 01:00:00
++++ b/repo/shop/clients/shipping.py	2026-09-25 02:24:56
+@@ -0,0 +1,2 @@
++def retry_delays():
++    return [2 * 2 ** i for i in range(5)]

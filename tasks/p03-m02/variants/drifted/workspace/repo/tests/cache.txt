@@ -1,0 +1,1 @@
+staging=memory_only production_disk=forbidden

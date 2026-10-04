@@ -1,0 +1,7 @@
+{
+  "case_id": "extv2-10",
+  "drifted_keys": [
+    "地区税率"
+  ],
+  "trap_signature": "'7\\.75'|7\\.75"
+}

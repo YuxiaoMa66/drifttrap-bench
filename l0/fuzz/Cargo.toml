@@ -1,0 +1,37 @@
+[package]
+name = "gmr-l0-fuzz"
+version = "0.0.0"
+publish = false
+edition = "2024"
+
+[package.metadata]
+cargo-fuzz = true
+
+[workspace]
+
+[dependencies]
+libfuzzer-sys = "0.4"
+serde_json = "1"
+gmr-core = { path = "../../../GMR-latest/crates/gmr-core" }
+gmr-transport = { path = "../../../GMR-latest/batteries/transport", features = ["file"] }
+
+[[bin]]
+name = "select"
+path = "fuzz_targets/select.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "inside"
+path = "fuzz_targets/inside.rs"
+test = false
+doc = false
+bench = false
+
+[[bin]]
+name = "ref_parse"
+path = "fuzz_targets/ref_parse.rs"
+test = false
+doc = false
+bench = false

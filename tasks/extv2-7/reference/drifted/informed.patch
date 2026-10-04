@@ -1,0 +1,6 @@
+diff -ruN a/repo/shop/webhooks.py b/repo/shop/webhooks.py
+--- a/repo/shop/webhooks.py	1970-01-01 01:00:00
++++ b/repo/shop/webhooks.py	2026-09-25 02:24:56
+@@ -0,0 +1,2 @@
++def signature_header():
++    return "X-Shop-Signature"

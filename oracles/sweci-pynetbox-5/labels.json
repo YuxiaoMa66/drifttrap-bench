@@ -1,0 +1,17 @@
+{
+  "schema": "gmr-drift-bench-l1-labels.v1",
+  "anchors": [
+    {
+      "key": "RequestError 属性",
+      "coordinate": "repo/pynetbox/core/query.py#RequestError"
+    }
+  ],
+  "conditions": {
+    "drifted": {
+      "RequestError 属性": "handed_back"
+    },
+    "stable": {
+      "RequestError 属性": "silent"
+    }
+  }
+}

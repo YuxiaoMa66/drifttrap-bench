@@ -1,0 +1,6 @@
+diff -ruN a/repo/shop/checkout.py b/repo/shop/checkout.py
+--- a/repo/shop/checkout.py	1970-01-01 01:00:00
++++ b/repo/shop/checkout.py	2026-09-25 02:24:56
+@@ -0,0 +1,2 @@
++def checkout_variant():
++    return "teal"

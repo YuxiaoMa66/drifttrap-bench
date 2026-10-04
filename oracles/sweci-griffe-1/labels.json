@@ -1,0 +1,17 @@
+{
+  "schema": "gmr-drift-bench-l1-labels.v1",
+  "anchors": [
+    {
+      "key": "griffe 统计",
+      "coordinate": "repo/src/griffe/stats.py#stats"
+    }
+  ],
+  "conditions": {
+    "drifted": {
+      "griffe 统计": "handed_back"
+    },
+    "stable": {
+      "griffe 统计": "silent"
+    }
+  }
+}

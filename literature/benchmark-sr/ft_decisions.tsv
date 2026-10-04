@@ -1,0 +1,167 @@
+# id	ft_decision(IN/EX)	reason	note
+acl:bian-etal-2026-realmem	IN		项目型跨会话对话，目标与记忆动态演化
+acl:diao-etal-2025-guidebench	IN		领域规则频繁更新；需核实“规则更新”子任务
+acl:lu-etal-2025-transbench	IN		GUI 跨版本迁移（应用版本更新）
+acl:wang-etal-2026-seeing	EX	I1	方法（EVU），使用既有具身基准
+arxiv:2305.15334	EX	I2	APIBench 本身无变化条件；文档变化仅为能力演示
+arxiv:2310.06770	EX	I2	OpenAlex 错标 arXiv 号；实为 world-model-mcp 配对实验，记忆为失败约束，无失效条件
+arxiv:2404.03577	IN		参数知识过时与文档冲突 QA（KNOT）
+arxiv:2406.06918	EX	I2	HumanEvo 处理的是未来信息泄漏，不是先前知识失效
+arxiv:2406.07411	IN		库版本条件化代码生成（VersiCode）
+arxiv:2406.09834	IN		弃用 API 使用评测，145 组 API 映射
+arxiv:2407.03625	EX	I1	方法（SYNTER）
+arxiv:2407.06249	IN		合成 API 更新 + 程序合成（CodeUpdateArena）
+arxiv:2408.05727	EX	I1	方法（hotfixing）
+arxiv:2408.16151	EX	I1	个案研究，无发布资源
+arxiv:2409.15523	EX	I2	用模拟器消除 API 波动，方向相反
+arxiv:2409.16526	EX	I1	方法（APILOT）
+arxiv:2410.10813	IN		含 knowledge update 类别（LongMemEval）
+arxiv:2411.04387	EX	I1	方法（GUPPY）
+arxiv:2411.05830	EX	E6	被 GitChameleon 2.0（2507.12367）取代
+arxiv:2411.11410	EX	I1	方法（MPDetector）
+arxiv:2502.16645	IN		CodeSyncBench：220 个真实 API 更新
+arxiv:2503.04800	IN		RAG 中过时信息影响（HoH）
+arxiv:2503.16922	IN		Rust API 演化四类（RustEvo²）
+arxiv:2504.02107	IN		时间连续预训练，参数知识过时（TiC-LM）
+arxiv:2504.09283	IN		意图规格更新的语义冲突；初始基准，需核实可得性
+arxiv:2505.07522	EX	I1	方法（Byam）；所用 BUMP 基准经引用追溯补入
+arxiv:2505.09569	IN		Java 8→17/21 仓库级迁移（MigrationBench）
+arxiv:2506.07270	IN		Temporal Wiki / Unified Clark 事实漂移
+arxiv:2506.20495	EX	I1	方法（ReCode），评测用 CodeUpdateArena
+arxiv:2507.00014	IN		按时间排序的仓库演化任务流（SWE-Bench-CL）
+arxiv:2507.05257	IN		含 selective forgetting / 冲突消解（MemoryAgentBench）
+arxiv:2507.12367	IN		版本条件化 + 可执行测试（GitChameleon 2.0）
+arxiv:2508.02023	EX	I3	REQBench 评测的是非 LLM 工具 PCREQ
+arxiv:2510.01353	IN		多平台时间线含冲突信息与 Git（MEMTRACK）
+arxiv:2510.03480	EX	I1	方法；3 个工业合成仓库未发布
+arxiv:2510.26699	EX	I1	个案评测研究，无发布资源
+arxiv:2511.00215	EX	I1	工具（DocPrism）
+arxiv:2511.03182	IN		代码 LLM 在 API 更新下的模型编辑基准（代码领域，不属 E5）
+arxiv:2511.06668	IN		按年份分层的过时医学证据 RAG 基准
+arxiv:2511.10523	IN		含 temporal changes / knowledge updates 类别（ConvoMem）
+arxiv:2511.21022	IN		EDAPIBench：弃用 API 知识更新（代码领域）
+arxiv:2512.18470	EX	I2	SWE-EVO 为单次长程演化任务，无先前知识失效条件
+arxiv:2601.00205	IN		依赖版本选择需满足当时的安全状态（DepDec-Bench，弱相关）
+arxiv:2601.02868	EX	I1	方法（CodeMEM）
+arxiv:2601.19249	EX	I1	方法（GLOVE）；其“受控环境漂移”增强可作滚雪球线索
+arxiv:2601.22597	IN		依赖更新导致测试失败的仓库迁移（TimeMachine-bench）
+arxiv:2602.09930	IN		Java 8→11 弃用 API 迁移（JMigBench）
+arxiv:2602.22518	EX	I2	跨语言翻译，非版本演化
+arxiv:2603.02345	EX	I1	方法（RIVA）
+arxiv:2603.03194	IN		含 dependency-driven migration 子集（BeyondSWE）
+arxiv:2603.03823	IN		base→target 平均 71 次提交的迭代维护（SWE-CI）
+arxiv:2603.07581	EX	I1	方法（KCoEvo）
+arxiv:2603.17104	EX	I2	规格逐步揭示，不是先前信息失效
+arxiv:2603.23848	IN		信念修正与矛盾检测（BeliefShift）
+arxiv:2604.07017	EX	I2	推断当前情绪状态，无失效构念
+arxiv:2604.09515	IN		270 个真实 API 演化下的上下文-记忆冲突
+arxiv:2604.12948	EX	I1	方法（dual-trace），评测用 LongMemEval
+arxiv:2604.15774	EX	I2	对抗性误导记忆，不是事实过期
+arxiv:2604.20006	IN		FAMA 惩罚依赖失效记忆（Memora）
+arxiv:2604.27045	EX	I1	方法（双流记忆与对账）
+arxiv:2605.02083	IN		事实编辑后下游论断变陈旧（EditPropBench），依赖传播
+arxiv:2605.06527	IN		隐式冲突使旧记忆失效（STALE）
+arxiv:2605.07769	IN		已修复的陈旧 bug 报告，agent 应不改代码（FixedBench）
+arxiv:2605.10990	IN		技能引用的外部服务/包/配置漂移；评测集可得性待核
+arxiv:2605.11325	IN		含 belief mutability（PrecisionMemBench，弱相关）
+arxiv:2605.13045	IN		医学指南随时间演化（TempoMed-Bench）
+arxiv:2605.14498	EX	I2	多方对话信念追踪，无更新失效条件
+arxiv:2605.14906	IN		含 knowledge update 类别（MemLens）
+arxiv:2605.15846	EX	I2	实现目标版本功能（同 SWE-EVO 口径），非先前知识失效
+arxiv:2605.20926	IN		时间有效性等三类记忆冲突（MemConflict）
+arxiv:2605.22219	EX	I2	站点检索状态配置，无失效构念
+arxiv:2605.29341	IN		演化世界状态、修订陈旧记忆（WorldMemArena）
+arxiv:2605.30087	EX	I2	多源冲突为受控失真，非时间性取代
+arxiv:2606.13681	IN		终端/软件/社交环境渐进更新（EvoArena）
+arxiv:2606.15903	IN		supersede/release/purge 控制面（ForgetEval）
+arxiv:2606.24446	EX	I1	方法（BigBag），用 BUMP 基准
+arxiv:2606.24775	IN		动态知识更新下的记忆系统评测框架（含 agent-memory-lab 代码）
+arxiv:2606.25402	IN		多版本 API 时间分层（LibEvoBench）
+arxiv:2606.25449	IN		诱导漂移后纠正的 reclaim 评测，无 LLM 评审
+arxiv:2606.26511	EX	I1	方法（MemStrata）
+arxiv:2606.27472	IN		记忆更新缺口诊断 + RL 环境（Supersede）
+arxiv:2606.30810	EX	I1	方法（CURE）
+arxiv:2607.01071	IN		含 track memory updates 任务（MemSyco-Bench）
+arxiv:2607.01213	IN		生态漂移后的仓库兼容性修复（RepoRescue）
+arxiv:2607.01935	IN		LTP（LoCoMo Temporal Plus）鬼影记忆冲突基准
+arxiv:2607.02469	IN		测试随代码变更更新，真实提交、可执行（TestEvo-Bench）
+arxiv:2607.02606	IN		同一代码库顺序依赖的 bug 链（ChainSWE）
+arxiv:2607.04072	IN		Qiskit 跨 SDK 版本 API 漂移，可执行
+arxiv:2607.09007	IN		基准标签随 Qiskit 版本静默失效（Bugs4Q 多版本重跑）
+arxiv:2607.12893	IN		记忆生命周期操作含更新/遗忘/陈旧值（MemOps）
+arxiv:2607.17291	EX	I2	植入误导文档，非时间性取代
+arxiv:2607.17957	IN		DepBench：95 个真实依赖更新，Docker 可执行 oracle
+arxiv:2607.26637	EX	I1	文件系统记忆的系统研究，使用既有基准
+arxiv:2608.02685	EX	I2	PR 间交互与合并顺序，无先前知识失效
+arxiv:2608.04003	IN		含 update 能力轨（PAST-Bench）
+arxiv:2608.04574	IN		动态 FrozenLake 空间记忆陈旧检测
+arxiv:2608.04746	IN		Temporal Generalization Test，保留间隔上的陈旧准确率
+arxiv:2608.12476	IN		GPM-ReleaseBench：取代/撤回/删除记录能否支撑结论，可执行判定
+arxiv:2608.15008	EX	I1	记忆底座横评，使用既有基准
+arxiv:2608.17671	IN		跨版本/分支安全补丁回移（Porting Benchmark）
+arxiv:2608.17756	EX	I1	诊断协议，评测用既有基准
+arxiv:2608.19652	IN		StateMemBench：当前态/被取代态闭集判分
+arxiv:2608.20167	EX	I1	方法（BreakGuard），用 BUMP
+arxiv:2608.20202	EX	I2	记忆诱发推理偏差，非失效
+arxiv:2608.30497	IN		生态级 API 更新映射与客户端更新实例数据集（Bridge）
+arxiv:2609.01852	IN		陈旧记忆压过权威工具证据（Memory Trust Gap），动作判分
+arxiv:2609.11515	IN		企业数据随时间变更、append-only 真值账本（ChurnBench）
+arxiv:2609.14976	IN		陈旧事实/撤回记忆复用等风险，确定性轨迹判分（MemRiskBench）
+arxiv:2609.16073	EX	I1	形式化与方法（GC-Mem）
+arxiv:2609.25786	IN		MUDAPIBench：弃用 API 遗忘（代码领域）
+gh:32andrii23/memory-freshness-lab	IN		版本化事实时间线上的陈旧泄漏确定性指标；adapter 尚在路线图
+gh:alienfader/continuity-benchmarks	EX	I2	执行意图记忆，LongMemEval 子集复用，无新失效条件
+gh:andrew-dev-p/memory-freshness-lab	EX	E6	与 32andrii23/memory-freshness-lab README 逐字节相同
+gh:basedlsg/iboga	EX	I2	从失败中提炼经验的准入门控，无失效条件
+gh:benlloydg/sandbox-universe	IN		冲突/陈旧计划/取代；有 lane 插件机制，确定性判分
+gh:dakshjain-1616/agent-memory-benchmarker	IN		各记忆后端的 staleness 指标；无 LICENSE
+gh:firstbatchxyz/adopt-bench	IN		团队方向变化后 agent 是否适应（弱相关）；许可 NOASSERTION（README 标 Apache-2.0）
+gh:jrosenbizzle/agent-memory-bench	IN		含 stale fact detection 场景
+gh:jsleekr/agentmem	IN		记忆后端测试框架含陈旧检测（弱相关）
+gh:kevin1289/slicer-eval-harness	IN		捕捉弃用 API（弱相关，主要测幻觉）
+gh:kitthefox123/memory-calibration	EX	I1	只有架构说明，无任务与数据
+gh:likecheng110/osac-bench	IN		系统/运行时指纹变化后拒绝陈旧事实，确定性检查；许可 NOASSERTION
+gh:loversky02/agent-memory-lab	EX	E6	2606.24775 的可运行实现，并入该记录
+gh:monika-bhardwaj/agentic-memory-benchmark	IN		含更新/遗忘的评测工具，尚无真实模型结果（弱相关）
+gh:openmoss/contextweave	EX	I2	编码 agent 记忆评测，README 未见失效/更新条件（arXiv 2608.04830 待滚雪球核实）
+gh:smshweta/merit-bench	IN		updated-fact 难度层，预注册，确定性环境
+gh:vrin-cloud/supersede	EX	E6	2606.27472（Supersede）的 RL 环境，并入该记录
+gh:zhiningliu1998/superlongagentbench	EX	I1	仓库无 README，无法确认任务构造
+hf:ai-hyz/memoryagentbench	EX	E6	2507.05257 的数据集
+hf:anon-neuripsed26/multisource-memory-benchmark	EX	I2	即 2605.30087 数据集（已按 I2 排除）
+hf:gde05/agent-memory-bench-corpus	EX	E6	语料并入 gh:giulioder/agent-memory-bench（其他途径记录）
+hf:kushalicious/agent-memory-benchmark	IN		含 temporal contradiction 事实类别（规模很小：20 题）
+hf:notmehul/memory-bench	IN		组织记忆：保留规则、丢弃被取代事实
+hf:osunlp/conflictqa	EX	I2	反事实 counter-memory，非时间性取代
+hf:ruggsea/continual-eval	IN		按时间戳新闻的持续学习 QA（参数层）
+hf:solsticestudioai/mnemosyne-memory-lifecycle-benchmark	IN		记忆生命周期 8 类场景；类别细节待核
+hf:thuir/memorybench	EX	I2	从用户反馈持续学习，无失效条件
+hf:trentdoney/braincore-memory-benchmark	EX	E2	时间一致性为事件顺序，无更新
+hf:wallfacers/agent-memory-trigger-bench	IN		含 dated supersession 类别，CLI 编码 agent + MCP 记忆
+hf:xiaowu0162/longmemeval-v2	IN		含 dynamic state tracking（LongMemEval-V2），Apache-2.0
+oa:W4389159035	EX	I3	非 LLM（预训练 QA 模型 + 知识图谱工具）
+oa:W4389159862	IN		一种语言的代码变更须同步到另一语言实现（Codeditor 语料，弱相关）
+oa:W4410540918	EX	I1	方法（LLM-CompDroid）
+oa:W4411119518	IN		库逐年演化的版本特定补全（LibEvolutionEval）
+oa:W4412888714	IN		跨版本环境的代码迁移（CODEMENV）
+oa:W4416293907	IN		静态基准标签过时的测量（DDS/EMR/TAG）
+oa:W7171826765	IN		35 天重复事实更新与干扰（DRIFTBENCH）
+or:0Gdfi27NPs	EX	I2	受控注入的反事实冲突，非时间性取代
+or:1zCrxCUNtW	IN		892 个真实更新事实，Wikidata 有效区间（StaleBench）
+or:2xvlW5hp0J	IN		对照 Wikidata 的参数知识过时评测（含编辑方法，但主体是时效评测）
+or:6WYjBeIioq	IN		CodeUnlearn-Bench：弃用 API 遗忘是否真删除（代码领域）
+or:B9gtT1hhEm	EX	I2	违背先前约定的漂移，无事实更新
+or:BUflU3hxSW	EX	I1	方法（知识库过时事实纠正）
+or:Kjo9vf2ihV	EX	I2	对话式解决问题，无失效条件
+or:MHc9XNO7Zh	EX	I1	方法（APIMig）
+or:MSXbrNExax	IN		含 repair 模式与知识冲突消解（AgentMemoryBench, s010m00n）
+or:Qf7hkFXLYC	IN		真实动态事件的持续知识漂移
+or:dfSeShiKNC	EX	I1	个案研究（JDK 15 弃用方法重构）
+or:ixIj874skc	IN		临床指南演化（DriftMedQA）
+or:l0Vfigga9Z	IN		按自然语言说明更新弃用 API 用法的真实基准
+or:mAyyfhSGDC	IN		含随时间变化事实（DynamicQA，参数层）
+or:nPZl3CjPQ8	EX	I3	非 LLM 分类器（HOFD）
+or:qwWne9xtSf	EX	I2	冲突类型非时间性
+or:riHpUZzP1h	EX	I1	架构研究，使用 LoCoMo
+or:rq8E9nPUG9	EX	I2	反事实多模态冲突
+or:xU0lx9dIbh	EX	I1	方法，评测用 VersiCode

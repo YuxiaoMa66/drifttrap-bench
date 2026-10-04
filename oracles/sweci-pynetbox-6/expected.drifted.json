@@ -1,0 +1,7 @@
+{
+  "case_id": "sweci-pynetbox-6",
+  "drifted_keys": [
+    "字段可选值"
+  ],
+  "trap_signature": "_choices|NoMockAddress|device:status"
+}

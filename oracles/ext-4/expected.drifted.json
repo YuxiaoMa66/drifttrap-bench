@@ -1,0 +1,7 @@
+{
+  "case_id": "ext-4",
+  "drifted_keys": [
+    "支付支持的币种"
+  ],
+  "trap_signature": "\\(False, True, True, False\\)"
+}

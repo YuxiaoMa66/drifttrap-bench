@@ -1,0 +1,7 @@
+{
+  "case_id": "sweci-pynetbox-3",
+  "drifted_keys": [
+    "Request.url"
+  ],
+  "trap_signature": "http_session|parse_qs|assert .*/api/dcim/devices/"
+}

@@ -1,0 +1,7 @@
+{
+  "case_id": "sweci-griffe-2",
+  "drifted_keys": [
+    "加载统计"
+  ],
+  "trap_signature": "not subscriptable"
+}

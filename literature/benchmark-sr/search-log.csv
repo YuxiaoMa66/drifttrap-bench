@@ -1,0 +1,47 @@
+date,source,group,query,total_hits,screened,note
+2026-09-23,arXiv,G1,"(abs:""agent memory"" OR abs:""long-term memory"" OR abs:""memory system"" OR abs:""conversational memory"") AND (abs:stale OR abs:outdated OR abs:obsolete OR abs:superseded OR abs:""knowledge update"" OR abs:""conflict resolution"" OR abs:invalidation OR abs:forgetting) AND (abs:benchmark OR abs:dataset OR abs:evaluation) AND submittedDate:[202301010000 TO 202609232359]",95,95,
+2026-09-23,arXiv,G2,"(abs:code OR abs:API OR abs:library OR abs:repository) AND (abs:version OR abs:evolution OR abs:deprecated OR abs:""breaking change"" OR abs:update OR abs:drift) AND (abs:benchmark OR abs:dataset) AND (abs:LLM OR abs:agent) AND submittedDate:[202301010000 TO 202609232359]",1668,100,
+2026-09-23,arXiv,G3,"(abs:""multi-session"" OR abs:continual OR abs:""long-horizon"" OR abs:""cross-session"" OR abs:sequential) AND (abs:""coding agent"" OR abs:""software engineering agent"" OR abs:""SWE-bench"") AND abs:benchmark AND submittedDate:[202301010000 TO 202609232359]",125,100,
+2026-09-23,arXiv,G4,(abs:documentation OR abs:configuration OR abs:specification OR abs:README) AND (abs:drift OR abs:inconsistency OR abs:outdated OR abs:stale) AND (abs:LLM OR abs:agent) AND (abs:benchmark OR abs:dataset) AND submittedDate:[202301010000 TO 202609232359],789,100,
+2026-09-23,OpenAlex,G1,agent memory stale outdated knowledge update conflict benchmark | from_publication_date:2023-01-01,375,100,
+2026-09-23,OpenAlex,G2,LLM code API library version evolution deprecated benchmark | from_publication_date:2023-01-01,566,100,
+2026-09-23,OpenAlex,G3,multi-session continual coding agent software engineering benchmark | from_publication_date:2023-01-01,1344,100,
+2026-09-23,OpenAlex,G4,LLM documentation configuration drift outdated inconsistency benchmark | from_publication_date:2023-01-01,405,100,
+2026-09-23,SemanticScholar,-,-,,0,未认证请求持续 HTTP 429（约10分钟、7次指数退避），按 PROTOCOL §10 修订1 以 OpenAlex 替代
+2026-09-23,OpenReview,G1,agent memory stale outdated knowledge update conflict benchmark,10000,50,
+2026-09-23,OpenReview,G2,LLM code API library version evolution deprecated benchmark,10000,50,
+2026-09-23,OpenReview,G3,multi-session continual coding agent software engineering benchmark,10000,50,
+2026-09-23,OpenReview,G4,LLM documentation configuration drift outdated inconsistency benchmark,10000,50,
+2026-09-23,GitHub,G1,agent memory benchmark stale created:>=2023-01-01,13,13,
+2026-09-23,GitHub,G1,memory benchmark conflict resolution llm created:>=2023-01-01,1,1,
+2026-09-23,GitHub,G1,memory benchmark knowledge update agent created:>=2023-01-01,0,0,
+2026-09-23,GitHub,G2,llm api version benchmark created:>=2023-01-01,0,0,
+2026-09-23,GitHub,G2,code library evolution benchmark llm created:>=2023-01-01,0,0,
+2026-09-23,GitHub,G2,deprecated api llm benchmark created:>=2023-01-01,2,2,
+2026-09-23,GitHub,G3,multi-session coding agent benchmark created:>=2023-01-01,1,1,
+2026-09-23,GitHub,G3,continual learning swe-bench created:>=2023-01-01,0,0,
+2026-09-23,GitHub,G3,long-horizon coding agent benchmark created:>=2023-01-01,12,12,
+2026-09-23,GitHub,G4,documentation drift llm benchmark created:>=2023-01-01,0,0,
+2026-09-23,GitHub,G4,outdated documentation code llm dataset created:>=2023-01-01,0,0,
+2026-09-23,GitHub,G4,configuration drift llm agent created:>=2023-01-01,1,1,
+2026-09-23,HuggingFace,G1,search=memory-bench,,26,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G1,search=memoryagentbench,,7,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G1,search=conflict,,50,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G1,search=knowledge-update,,0,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G1,search=longmem,,50,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G2,search=api-update,,0,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G2,search=version,,50,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G2,search=deprecat,,50,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G2,search=code-evolution,,0,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G2,search=library-version,,0,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G3,search=swe-bench,,50,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G3,search=multi-session,,10,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G3,search=continual,,50,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G4,search=documentation,,50,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G4,search=doc-drift,,0,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,HuggingFace,G4,search=config,,50,HF API 不返回总数；已返回数即命中数（上限50）
+2026-09-23,PapersWithCode,-,-,,0,paperswithcode.com 跳转到 huggingface.co/papers/trending，服务已停止；按协议记为不可用
+2026-09-23,ACLAnthology,G1,"(agent memory OR long-term memory OR memory system OR conversational memory) AND (stale OR outdated OR obsolete OR superseded OR knowledge update OR conflict resolution OR invalidation OR forgetting) AND (benchmark OR dataset OR evaluation) | title+abstract, year>=2023",4,4,本地匹配官方 anthology+abstracts.bib.gz；按匹配词数排序取前50
+2026-09-23,ACLAnthology,G2,"(code OR API OR library OR repository) AND (version OR evolution OR deprecated OR breaking change OR update OR drift) AND (benchmark OR dataset) AND (LLM OR agent) | title+abstract, year>=2023",153,50,本地匹配官方 anthology+abstracts.bib.gz；按匹配词数排序取前50
+2026-09-23,ACLAnthology,G3,"(multi-session OR continual OR long-horizon OR cross-session OR sequential) AND (coding agent OR software engineering agent OR SWE-bench) AND (benchmark) | title+abstract, year>=2023",1,1,本地匹配官方 anthology+abstracts.bib.gz；按匹配词数排序取前50
+2026-09-23,ACLAnthology,G4,"(documentation OR configuration OR specification OR README) AND (drift OR inconsistency OR outdated OR stale) AND (LLM OR agent) AND (benchmark OR dataset) | title+abstract, year>=2023",3,3,本地匹配官方 anthology+abstracts.bib.gz；按匹配词数排序取前50

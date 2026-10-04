@@ -1,0 +1,7 @@
+{
+  "case_id": "sweci-pdfsyntax-3",
+  "drifted_keys": [
+    "PDF 对象引用"
+  ],
+  "trap_signature": "KeyError: b'/Root'|'_REF'"
+}

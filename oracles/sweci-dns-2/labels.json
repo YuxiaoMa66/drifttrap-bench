@@ -1,0 +1,17 @@
+{
+  "schema": "gmr-drift-bench-l1-labels.v1",
+  "anchors": [
+    {
+      "key": "记录类别转换",
+      "coordinate": "repo/dns/rdataclass.py#to_enum"
+    }
+  ],
+  "conditions": {
+    "drifted": {
+      "记录类别转换": "handed_back"
+    },
+    "stable": {
+      "记录类别转换": "silent"
+    }
+  }
+}

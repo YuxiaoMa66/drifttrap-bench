@@ -1,0 +1,15 @@
+diff -ruN a/submission.json b/submission.json
+--- a/submission.json	1970-01-01 01:00:00
++++ b/submission.json	2026-09-24 14:21:03
+@@ -0,0 +1,11 @@
++{
++  "case_id": "p03-e03",
++  "values": {
++    "endpoint": "/v1/pay",
++    "env": "PAY_URL",
++    "tls": true
++  },
++  "changed_files": [
++    "config/service.json"
++  ]
++}

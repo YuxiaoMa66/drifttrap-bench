@@ -1,0 +1,1410 @@
+# id	decision	reason  (FT=进全文; EX 需原因编号)  batch 0
+acl:ahmadi-etal-2026-lemur	EX	I2
+acl:ai-etal-2026-tooldna	EX	I1
+acl:bian-etal-2026-realmem	FT	
+acl:chen-etal-2026-beyond-quantity	EX	I2
+acl:chen-etal-2026-harmonizing	EX	I1
+acl:chen-etal-2026-memrec	EX	I1
+acl:diao-etal-2025-guidebench	FT	
+acl:dongre-etal-2025-respact	EX	I1
+acl:gan-etal-2026-scaling	EX	I2
+acl:gao-etal-2026-biotool	EX	I2
+acl:hu-etal-2025-os	EX	I1
+acl:hu-etal-2026-selection	EX	I2
+acl:ji-etal-2025-llm	EX	I2
+acl:jiang-etal-2025-kg	EX	I1
+acl:kiy-etal-2026-reproducibility	EX	I2
+acl:lan-etal-2026-hscodecomp	EX	I2
+acl:li-etal-2026-data	EX	I2
+acl:li-etal-2026-finkario	EX	I2
+acl:liang-etal-2026-learning-irrecoverable	EX	I1
+acl:liu-etal-2026-webcoderbench	EX	I2
+acl:lu-etal-2025-transbench	FT	
+acl:luo-laban-2026-spasm	EX	I2
+acl:matveyenko-etal-2026-development	EX	I2
+acl:meadows-etal-2026-formalscience	EX	I2
+acl:momen-etal-2025-filling	EX	I2
+acl:patil-etal-2025-reliable	EX	I2
+acl:pham-etal-2025-verify	EX	I2
+acl:pham-etal-2026-analystbench	EX	I2
+acl:pudasaini-etal-2025-benchmarking	EX	I2
+acl:rabinovich-etal-2026-near	EX	I2
+acl:shen-etal-2024-small	EX	I1
+acl:siddique-etal-2025-physicseval	EX	I2
+acl:son-etal-2025-kmmlu	EX	I2
+acl:sun-etal-2026-mirth	EX	I3
+acl:tang-etal-2025-synfix	EX	I1
+acl:tekin-etal-2026-h3fusion	EX	I2
+acl:wang-etal-2025-puer	EX	I2
+acl:wang-etal-2026-seeing	FT	
+acl:zhang-etal-2025-always	EX	I2
+acl:zhang-etal-2025-codedpo	EX	I1
+acl:zhang-etal-2026-evohyper	EX	I1
+acl:zhang-etal-2026-looptool	EX	I1
+acl:zhao-etal-2025-fedleke	EX	E5
+acl:zhao-etal-2026-comet	EX	I1
+acl:zheng-etal-2026-naturalgaia	EX	I2
+acl:zhou-etal-2025-mam	EX	I2
+arxiv:2302.04012	EX	I2
+arxiv:2302.06527	EX	I2
+arxiv:2303.17760	EX	I1
+arxiv:2304.05510	EX	I1
+arxiv:2304.08191	EX	I2
+arxiv:2305.06360	EX	I1
+arxiv:2305.13412	EX	I2
+arxiv:2305.15334	FT	
+arxiv:2305.17553	EX	E5
+arxiv:2306.02077	EX	I2
+arxiv:2306.07174	EX	I1
+arxiv:2306.15121	EX	I2
+arxiv:2307.15370	EX	I2
+arxiv:2308.03656	EX	I2
+arxiv:2308.07124	EX	I1
+arxiv:2308.10848	EX	I1
+arxiv:2309.04142	EX	I1
+arxiv:2309.05660	EX	I2
+arxiv:2310.00109	EX	I3
+arxiv:2310.06770	FT	
+arxiv:2310.07521	EX	I1
+arxiv:2310.17537	EX	I3
+arxiv:2310.17903	EX	I1
+arxiv:2311.04939	EX	E1
+arxiv:2311.09000	EX	E1
+arxiv:2312.11813	EX	I2
+arxiv:2401.00288	EX	I1
+arxiv:2401.16822	EX	I2
+arxiv:2401.17043	EX	I2
+# batch 1
+arxiv:2402.01680	EX	I1
+arxiv:2402.05102	EX	I2
+arxiv:2402.09615	EX	I2
+arxiv:2402.13758	EX	I2
+arxiv:2402.19161	EX	I3
+arxiv:2402.19431	EX	I1
+arxiv:2403.03397	EX	I2
+arxiv:2403.03788	EX	I2
+arxiv:2403.04787	EX	I1
+arxiv:2403.13313	EX	I2
+arxiv:2403.13679	EX	I2
+arxiv:2403.16443	EX	I1
+arxiv:2403.16527	EX	I1
+arxiv:2403.17927	EX	I1
+arxiv:2404.00599	EX	I2
+arxiv:2404.01189	EX	I2
+arxiv:2404.02831	EX	I1
+arxiv:2404.03113	EX	I3
+arxiv:2404.03577	FT	
+arxiv:2404.03823	EX	I2
+arxiv:2404.05144	EX	I2
+arxiv:2404.12041	EX	I1
+arxiv:2405.02774	EX	I2
+arxiv:2405.05438	EX	I2
+arxiv:2405.08015	EX	I3
+arxiv:2405.12528	EX	I1
+arxiv:2405.19495	EX	I2
+arxiv:2406.00515	EX	I1
+arxiv:2406.04941	EX	I2
+arxiv:2406.06918	FT	
+arxiv:2406.07275	EX	I2
+arxiv:2406.07411	FT	
+arxiv:2406.07561	EX	I2
+arxiv:2406.09701	EX	I2
+arxiv:2406.09834	FT	
+arxiv:2406.11678	EX	I2
+arxiv:2406.12513	EX	I2
+arxiv:2406.15877	EX	I2
+arxiv:2407.01080	EX	I2
+arxiv:2407.01102	EX	E1
+arxiv:2407.03625	FT	
+arxiv:2407.06249	FT	
+arxiv:2407.06813	EX	I1
+arxiv:2407.14567	EX	I1
+arxiv:2407.17631	EX	I2
+arxiv:2407.21416	EX	I3
+arxiv:2408.05727	FT	
+arxiv:2408.08902	EX	I2
+arxiv:2408.14354	EX	I2
+arxiv:2408.15853	EX	I2
+arxiv:2408.16151	FT	
+arxiv:2409.03093	EX	I2
+arxiv:2409.13054	EX	E5
+arxiv:2409.15228	EX	I2
+arxiv:2409.15523	FT	
+arxiv:2409.16526	FT	
+arxiv:2410.06107	EX	I1
+arxiv:2410.10813	FT	
+arxiv:2410.16597	EX	I2
+arxiv:2410.20285	EX	I1
+arxiv:2411.00041	EX	I2
+arxiv:2411.04387	FT	
+arxiv:2411.04468	EX	I1
+arxiv:2411.05636	EX	I3
+arxiv:2411.05830	FT	
+arxiv:2411.08977	EX	I2
+arxiv:2411.08981	EX	I1
+arxiv:2411.11410	FT	
+arxiv:2411.14571	EX	I2
+arxiv:2411.14971	EX	I2
+arxiv:2411.15501	EX	I2
+arxiv:2411.19039	EX	I2
+arxiv:2411.19547	EX	I1
+arxiv:2412.05731	EX	I1
+arxiv:2412.20602	EX	I2
+# batch 2
+arxiv:2501.00332	EX	I1
+arxiv:2501.16945	EX	I2
+arxiv:2502.13379	EX	I2
+arxiv:2502.14321	EX	I1
+arxiv:2502.16645	FT	
+arxiv:2503.04800	FT	
+arxiv:2503.07701	EX	I2
+arxiv:2503.14713	EX	I2
+arxiv:2503.16416	EX	I1
+arxiv:2503.16922	FT	
+arxiv:2503.22821	EX	I2
+arxiv:2503.24047	EX	I1
+arxiv:2504.02107	FT	
+arxiv:2504.02605	EX	I2
+arxiv:2504.04717	EX	I1
+arxiv:2504.09283	FT	
+arxiv:2504.15228	EX	I1
+arxiv:2504.19076	EX	I1
+arxiv:2504.19838	EX	I1
+arxiv:2504.19912	EX	I2
+arxiv:2504.21239	EX	I1
+arxiv:2505.02484	EX	I2
+arxiv:2505.05177	EX	I1
+arxiv:2505.06416	EX	I1
+arxiv:2505.07460	EX	I1
+arxiv:2505.07473	EX	I2
+arxiv:2505.07522	FT	
+arxiv:2505.09569	FT	
+arxiv:2505.09952	EX	I1
+arxiv:2505.10468	EX	I1
+arxiv:2505.12786	EX	I1
+arxiv:2505.12938	EX	I2
+arxiv:2505.13098	EX	I2
+arxiv:2505.13941	EX	I1
+arxiv:2505.18101	EX	I3
+arxiv:2505.19443	EX	I1
+arxiv:2505.19572	EX	E5
+arxiv:2505.20411	EX	I2
+arxiv:2505.22921	EX	I1
+arxiv:2505.22954	EX	I1
+arxiv:2505.23419	EX	I2
+arxiv:2505.24197	EX	I2
+arxiv:2506.00172	EX	I2
+arxiv:2506.00482	EX	I2
+arxiv:2506.03320	EX	I1
+arxiv:2506.04133	EX	I1
+arxiv:2506.07270	FT	
+arxiv:2506.10484	EX	I1
+arxiv:2506.14683	EX	I1
+arxiv:2506.15170	EX	I1
+arxiv:2506.17125	EX	I2
+arxiv:2506.18096	EX	I1
+arxiv:2506.20495	FT	
+arxiv:2506.23978	EX	I1
+arxiv:2507.00014	FT	
+arxiv:2507.01827	EX	I1
+arxiv:2507.02125	EX	I1
+arxiv:2507.03156	EX	I1
+arxiv:2507.03637	EX	I1
+arxiv:2507.05257	FT	
+arxiv:2507.09866	EX	I2
+arxiv:2507.11059	EX	I2
+arxiv:2507.11988	EX	I1
+arxiv:2507.12367	FT	
+arxiv:2507.16044	EX	I2
+arxiv:2507.19942	EX	I1
+arxiv:2508.00031	EX	I1
+arxiv:2508.00788	EX	I2
+arxiv:2508.01550	EX	I1
+arxiv:2508.02023	FT	
+arxiv:2508.05550	EX	I3
+arxiv:2508.07421	EX	I1
+arxiv:2508.11021	EX	I2
+arxiv:2508.11126	EX	I1
+arxiv:2508.13769	EX	I2
+# batch 3
+arxiv:2508.14727	EX	I2
+arxiv:2508.19357	EX	I1
+arxiv:2508.20275	EX	I1
+arxiv:2509.04820	EX	I2
+arxiv:2509.07367	EX	I2
+arxiv:2509.12765	EX	I1
+arxiv:2509.16941	EX	I2
+arxiv:2509.17183	EX	I1
+arxiv:2509.18063	EX	I1
+arxiv:2509.18754	EX	I1
+arxiv:2509.20900	EX	I2
+arxiv:2509.22237	EX	I2
+arxiv:2509.23233	EX	I2
+arxiv:2509.24380	EX	I1
+arxiv:2509.26110	EX	I2
+arxiv:2510.00507	EX	I2
+arxiv:2510.01003	EX	I1
+arxiv:2510.01353	FT	
+arxiv:2510.01552	EX	I2
+arxiv:2510.03418	EX	I2
+arxiv:2510.03480	FT	
+arxiv:2510.09721	EX	I1
+arxiv:2510.12178	EX	I1
+arxiv:2510.12399	EX	I1
+arxiv:2510.18289	EX	I2
+arxiv:2510.26699	FT	
+arxiv:2510.27418	EX	I1
+arxiv:2511.00215	FT	
+arxiv:2511.01375	EX	I2
+arxiv:2511.01668	EX	I1
+arxiv:2511.03182	FT	
+arxiv:2511.04427	EX	I2
+arxiv:2511.06668	FT	
+arxiv:2511.10523	FT	
+arxiv:2511.12116	EX	I2
+arxiv:2511.12950	EX	I2
+arxiv:2511.13646	EX	I1
+arxiv:2511.15976	EX	I2
+arxiv:2511.21022	FT	
+arxiv:2512.04515	EX	I3
+arxiv:2512.04680	EX	I1
+arxiv:2512.07850	EX	I2
+arxiv:2512.09577	EX	I2
+arxiv:2512.10218	EX	I2
+arxiv:2512.10696	EX	I1
+arxiv:2512.11589	EX	I2
+arxiv:2512.12730	EX	I2
+arxiv:2512.12856	EX	I2
+arxiv:2512.18470	FT	
+arxiv:2512.19864	EX	I2
+arxiv:2512.21351	EX	I1
+arxiv:2512.24873	EX	I1
+arxiv:2601.00205	FT	
+arxiv:2601.02627	EX	I2
+arxiv:2601.02868	FT	
+arxiv:2601.05260	EX	I2
+arxiv:2601.11077	EX	I2
+arxiv:2601.12632	EX	I2
+arxiv:2601.13007	EX	I1
+arxiv:2601.16872	EX	I1
+arxiv:2601.19106	EX	I1
+arxiv:2601.19249	FT	
+arxiv:2601.20352	EX	I1
+arxiv:2601.22528	EX	I1
+arxiv:2601.22597	FT	
+arxiv:2601.22952	EX	I2
+arxiv:2602.02369	EX	I1
+arxiv:2602.03411	EX	I1
+arxiv:2602.03786	EX	I1
+arxiv:2602.05366	EX	I2
+arxiv:2602.07072	EX	I1
+arxiv:2602.09930	FT	
+arxiv:2602.10975	EX	I2
+arxiv:2602.13543	EX	I2
+arxiv:2602.16873	EX	I1
+# batch 4
+arxiv:2602.17547	EX	I1
+arxiv:2602.19157	EX	I1
+arxiv:2602.19844	EX	I1
+arxiv:2602.21220	EX	I1
+arxiv:2602.22207	EX	I2
+arxiv:2602.22302	EX	I1
+arxiv:2602.22518	FT	
+arxiv:2602.22680	EX	I1
+arxiv:2602.24009	EX	I2
+arxiv:2603.00903	EX	I3
+arxiv:2603.02345	FT	
+arxiv:2603.03194	FT	
+arxiv:2603.03823	FT	
+arxiv:2603.04549	EX	I1
+arxiv:2603.05517	EX	I1
+arxiv:2603.06739	EX	I2
+arxiv:2603.07581	FT	
+arxiv:2603.07670	EX	I1
+arxiv:2603.10057	EX	I2
+arxiv:2603.11768	EX	I1
+arxiv:2603.13251	EX	I2
+arxiv:2603.15159	EX	I2
+arxiv:2603.16413	EX	I1
+arxiv:2603.17104	FT	
+arxiv:2603.17265	EX	I2
+arxiv:2603.17787	EX	I1
+arxiv:2603.18743	EX	I1
+arxiv:2603.19595	EX	I1
+arxiv:2603.23848	FT	
+arxiv:2603.24477	EX	I1
+arxiv:2603.26648	EX	I2
+arxiv:2603.26664	EX	I1
+arxiv:2603.27253	EX	I1
+arxiv:2603.27524	EX	I2
+arxiv:2603.27563	EX	I2
+arxiv:2603.29908	EX	I2
+arxiv:2604.05435	EX	I2
+arxiv:2604.06126	EX	I2
+arxiv:2604.07017	FT	
+arxiv:2604.07877	EX	I1
+arxiv:2604.08216	EX	I1
+arxiv:2604.09515	FT	
+arxiv:2604.11518	EX	I2
+arxiv:2604.11544	EX	I1
+arxiv:2604.12034	EX	I1
+arxiv:2604.12948	FT	
+arxiv:2604.15034	EX	I1
+arxiv:2604.15774	FT	
+arxiv:2604.17950	EX	I1
+arxiv:2604.19572	EX	I1
+arxiv:2604.20006	FT	
+arxiv:2604.20598	EX	I1
+arxiv:2604.20943	EX	I1
+arxiv:2604.21287	EX	I2
+arxiv:2604.22085	EX	I1
+arxiv:2604.22294	EX	I2
+arxiv:2604.24038	EX	I2
+arxiv:2604.27045	FT	
+arxiv:2605.02083	FT	
+arxiv:2605.02244	EX	I2
+arxiv:2605.04608	EX	I3
+arxiv:2605.05267	EX	I1
+arxiv:2605.06464	EX	I2
+arxiv:2605.06527	FT	
+arxiv:2605.07122	EX	I2
+arxiv:2605.07769	FT	
+arxiv:2605.09692	EX	I2
+arxiv:2605.10990	FT	
+arxiv:2605.11325	FT	
+arxiv:2605.13045	FT	
+arxiv:2605.13438	EX	I1
+arxiv:2605.13950	EX	I2
+arxiv:2605.14084	EX	I1
+arxiv:2605.14133	EX	I2
+arxiv:2605.14498	FT	
+# batch 5
+arxiv:2605.14537	EX	I2
+arxiv:2605.14906	FT	
+arxiv:2605.15710	EX	E1
+arxiv:2605.15846	FT	
+arxiv:2605.17526	EX	I2
+arxiv:2605.17641	EX	I1
+arxiv:2605.17830	EX	I2
+arxiv:2605.18401	EX	I1
+arxiv:2605.18657	EX	I3
+arxiv:2605.18859	EX	I2
+arxiv:2605.19276	EX	I2
+arxiv:2605.19988	EX	I2
+arxiv:2605.20244	EX	I1
+arxiv:2605.20251	EX	I2
+arxiv:2605.20926	FT	
+arxiv:2605.21384	EX	I2
+arxiv:2605.22219	FT	
+arxiv:2605.23989	EX	I1
+arxiv:2605.24117	EX	I2
+arxiv:2605.26252	EX	I1
+arxiv:2605.26321	EX	I2
+arxiv:2605.26548	EX	I2
+arxiv:2605.27445	EX	I2
+arxiv:2605.27492	EX	I2
+arxiv:2605.27605	EX	I1
+arxiv:2605.27898	EX	I2
+arxiv:2605.28062	EX	I1
+arxiv:2605.28148	EX	I1
+arxiv:2605.29341	FT	
+arxiv:2605.30087	FT	
+arxiv:2605.30771	EX	I1
+arxiv:2605.31308	EX	I2
+arxiv:2605.31478	EX	I2
+arxiv:2606.01138	EX	I2
+arxiv:2606.01435	EX	I1
+arxiv:2606.04780	EX	I1
+arxiv:2606.05525	EX	I2
+arxiv:2606.05684	EX	I1
+arxiv:2606.07159	EX	I3
+arxiv:2606.07682	EX	I2
+arxiv:2606.09198	EX	I1
+arxiv:2606.09483	EX	I1
+arxiv:2606.09900	EX	I1
+arxiv:2606.10062	EX	I2
+arxiv:2606.10677	EX	I1
+arxiv:2606.10728	EX	I2
+arxiv:2606.10933	EX	I2
+arxiv:2606.11976	EX	I2
+arxiv:2606.12747	EX	I2
+arxiv:2606.13681	FT	
+arxiv:2606.15903	FT	
+arxiv:2606.15949	EX	I2
+arxiv:2606.17053	EX	I1
+arxiv:2606.18023	EX	I1
+arxiv:2606.18733	EX	I2
+arxiv:2606.22030	EX	I1
+arxiv:2606.22082	EX	I1
+arxiv:2606.24446	FT	
+arxiv:2606.24453	EX	I1
+arxiv:2606.24526	EX	I2
+arxiv:2606.24535	EX	I1
+arxiv:2606.24775	FT	
+arxiv:2606.25115	EX	I1
+arxiv:2606.25388	EX	I2
+arxiv:2606.25402	FT	
+arxiv:2606.25449	FT	
+arxiv:2606.26511	FT	
+arxiv:2606.26753	EX	I1
+arxiv:2606.27472	FT	
+arxiv:2606.28279	EX	I1
+arxiv:2606.28450	EX	I1
+arxiv:2606.29778	EX	I1
+arxiv:2606.29788	EX	I2
+arxiv:2606.30810	FT	
+arxiv:2606.31612	EX	I1
+# batch 6
+arxiv:2607.00049	EX	I2
+arxiv:2607.01071	FT	
+arxiv:2607.01213	FT	
+arxiv:2607.01709	EX	I1
+arxiv:2607.01935	FT	
+arxiv:2607.02469	FT	
+arxiv:2607.02579	EX	I1
+arxiv:2607.02606	FT	
+arxiv:2607.03525	EX	I2
+arxiv:2607.04072	FT	
+arxiv:2607.04089	EX	I1
+arxiv:2607.05391	EX	I1
+arxiv:2607.05969	EX	I1
+arxiv:2607.07508	EX	I1
+arxiv:2607.07744	EX	I2
+arxiv:2607.07946	EX	I2
+arxiv:2607.09007	FT	
+arxiv:2607.09762	EX	I2
+arxiv:2607.12068	EX	I2
+arxiv:2607.12463	EX	I1
+arxiv:2607.12893	FT	
+arxiv:2607.13091	EX	I1
+arxiv:2607.13591	EX	I1
+arxiv:2607.16632	EX	I2
+arxiv:2607.17291	FT	
+arxiv:2607.17957	FT	
+arxiv:2607.18039	EX	I1
+arxiv:2607.18975	EX	I1
+arxiv:2607.19595	EX	I1
+arxiv:2607.20064	EX	I1
+arxiv:2607.20458	EX	I1
+arxiv:2607.21604	EX	I1
+arxiv:2607.24854	EX	I2
+arxiv:2607.26212	EX	I1
+arxiv:2607.26520	EX	I1
+arxiv:2607.26637	FT	
+arxiv:2607.26777	EX	I2
+arxiv:2607.27080	EX	I2
+arxiv:2607.27146	EX	I1
+arxiv:2607.27167	EX	I1
+arxiv:2607.27353	EX	I2
+arxiv:2607.27409	EX	I2
+arxiv:2607.27539	EX	I2
+arxiv:2607.28430	EX	I1
+arxiv:2607.28591	EX	I2
+arxiv:2608.00181	EX	I2
+arxiv:2608.00267	EX	I2
+arxiv:2608.01189	EX	I1
+arxiv:2608.01619	EX	I1
+arxiv:2608.02001	EX	I2
+arxiv:2608.02685	FT	
+arxiv:2608.03392	EX	I1
+arxiv:2608.03699	EX	I1
+arxiv:2608.04003	FT	
+arxiv:2608.04574	FT	
+arxiv:2608.04746	FT	
+arxiv:2608.05144	EX	I1
+arxiv:2608.07147	EX	I1
+arxiv:2608.07545	EX	I1
+arxiv:2608.08236	EX	I1
+arxiv:2608.08621	EX	I2
+arxiv:2608.09273	EX	I2
+arxiv:2608.09802	EX	I2
+arxiv:2608.12476	FT	
+arxiv:2608.13606	EX	I1
+arxiv:2608.13607	EX	I2
+arxiv:2608.15008	FT	
+arxiv:2608.15071	EX	I1
+arxiv:2608.15579	EX	I1
+arxiv:2608.16637	EX	I1
+arxiv:2608.17671	FT	
+arxiv:2608.17756	FT	
+arxiv:2608.18317	EX	I2
+arxiv:2608.19652	FT	
+arxiv:2608.20167	FT	
+# batch 7  (一致性修正：代码 API 演化类方法论文可能附新数据集 → 统一 FT：2606.30810 2603.07581 2606.24446 2608.20167)
+arxiv:2608.20202	FT	
+arxiv:2608.20204	EX	I2
+arxiv:2608.20631	EX	I1
+arxiv:2608.21867	EX	I1
+arxiv:2608.22215	EX	I1
+arxiv:2608.23493	EX	I1
+arxiv:2608.24252	EX	I2
+arxiv:2608.26218	EX	I2
+arxiv:2608.28281	EX	I2
+arxiv:2608.28978	EX	I1
+arxiv:2608.30497	FT	
+arxiv:2609.01245	EX	I1
+arxiv:2609.01852	FT	
+arxiv:2609.04208	EX	I2
+arxiv:2609.06006	EX	I3
+arxiv:2609.09115	EX	I1
+arxiv:2609.11515	FT	
+arxiv:2609.12742	EX	I2
+arxiv:2609.14857	EX	I1
+arxiv:2609.14976	FT	
+arxiv:2609.16073	FT	
+arxiv:2609.16096	EX	I1
+arxiv:2609.16635	EX	I1
+arxiv:2609.22111	EX	I2
+arxiv:2609.24025	EX	I3
+arxiv:2609.25786	FT	
+arxiv:2609.25804	EX	I2
+gh:32andrii23/memory-freshness-lab	FT	
+gh:admire-ljb/voln-uav	EX	I2
+gh:alienfader/continuity-benchmarks	FT	
+gh:alpozcan/ios-agent-benchmark	EX	I2
+gh:andrew-dev-p/memory-freshness-lab	FT	
+gh:basedlsg/iboga	FT	
+gh:benlloydg/sandbox-universe	FT	
+gh:chowdarymcs/agent-context-cost-benchmark	EX	I2
+gh:dakshjain-1616/agent-memory-benchmarker	FT	
+gh:firstbatchxyz/adopt-bench	FT	
+gh:husseinmuhaisen/apex-cyber-microbench	EX	I2
+gh:joe51111jwd/palimpsest	EX	I1
+gh:jrosenbizzle/agent-memory-bench	FT	
+gh:jsleekr/agentmem	FT	
+gh:kalwardin-dronzer/neurohack	EX	I1
+gh:kevin1289/slicer-eval-harness	FT	
+gh:kitthefox123/memory-calibration	FT	
+gh:likecheng110/osac-bench	FT	
+gh:loversky02/agent-memory-lab	FT	
+gh:monika-bhardwaj/agentic-memory-benchmark	FT	
+gh:myloadcircle/apipoints	EX	I2
+gh:openmoss/contextweave	FT	
+gh:proximal-labs/frontier-swe	EX	I2
+gh:sainathmanda7/opsinux	EX	I1
+gh:shaneconner/canon-bench	EX	E1
+gh:smshweta/merit-bench	FT	
+gh:vrin-cloud/supersede	FT	
+gh:zhiningliu1998/superlongagentbench	FT	
+gh:zqychelsea/long-horizon-code-bench	EX	I2
+gh:zzzrichard0101/forgebench	EX	I2
+hf:abcasas/m3-bench-memory	EX	E1
+hf:abdelkareem/rwkv_alpaca_arabic_instruct_version	EX	I2
+hf:abubakar78/langchain-documentation	EX	I2
+hf:addy17/documentation	EX	I2
+hf:adityaagi/documentation	EX	I2
+hf:adityaagi/procedures_documentation	EX	I2
+hf:adityakorade/documentationa_dataset	EX	I2
+hf:agentscope-ai/reme_longmemeval_clean_s_v2	EX	E6
+hf:ai-hyz/memoryagentbench	FT	
+hf:albertvillanova/dummy-version	EX	I2
+hf:algorithmicresearchgroup/swe-bench-ml-summaries-with-estimates	EX	I2
+hf:amyxu/longmemeval-cleaned	EX	E6
+hf:anon-neuripsed26/multisource-memory-benchmark	FT	
+hf:anonymous-submission-memory-bench/structmemeval	EX	I1
+hf:anytp/conflicto	EX	I1
+hf:arpitamangal/flower-blip-original-version	EX	I2
+hf:ashedwards/swe-bench-lite3	EX	E6
+hf:atipico1/conflict_passage_test	EX	I1
+# batch 8  (HF：LongMemEval 衍生清洗版/索引库统一 E6；仅名称含 conflict/deprecated 而无卡片的训练数据 I2)
+hf:atipico1/conflict_test	EX	I1
+hf:atipico1/mrqa_preprocessed_with_substitution-rewritten-conflict	EX	I1
+hf:atipico1/nq_preprocessed_with_o-u_case_conflict	EX	I1
+hf:atipico1/nq_test_adversary_conflict_entity	EX	I1
+hf:avishagnevo/israeli-palestinian-conflict	EX	I2
+hf:bailing1961/longmemeval-cleaned	EX	E6
+hf:barto17/gtzan_all_preprocessed_kaggle_version	EX	I3
+hf:bgudmestad/nushell_documentation	EX	I2
+hf:blastwind/deprecated-github-code-haskell-function	EX	I2
+hf:bowang0911/longmemevaldoc	EX	E6
+hf:brianv1981/aim-longmemeval-memory-lance-db	EX	E6
+hf:bvisser/swe-bump-bench	EX	I1
+hf:carlo711/continual-pretraining	EX	I2
+hf:carlo711/continual_pt_chunked	EX	I2
+hf:carlosmorales/news_bbc_international_conflicts	EX	I2
+hf:cekal/orion-deprecated	EX	I2
+hf:cem888ai/memory-agent-benchmark	EX	I1
+hf:changyeon/libero-90-continual-gr00t	EX	I3
+hf:changyeon/libero-90-continual-openpi-v2	EX	I3
+hf:changyeon/libero-continual-rlds	EX	I3
+hf:changyeon/libero-continual-v3	EX	I3
+hf:chatham84/version11	EX	I2
+hf:chatham84/version6	EX	I2
+hf:cloudcommanders/windows-internal-documentation	EX	I2
+hf:clown17/sd_configs	EX	I3
+hf:code-rag-bench/library-documentation	EX	I2
+hf:continual-mega/continual-mega-benchmark	EX	I3
+hf:continual-pretraining/japanese-dedup	EX	I2
+hf:continuallearning/eval_diffusion_ep53_real_0_put_bowl	EX	I3
+hf:continuallearning/eval_diffusion_fft_real_0_put_bowl_filtered	EX	I3
+hf:continuallearning/eval_diffusion_fft_real_0_put_bowl_filtered_fixed	EX	I3
+hf:continuallearning/eval_diffusion_fft_real_1_stack_bowls_filtered	EX	I3
+hf:continuallearning/libero_10_image_task_0	EX	I3
+hf:continuallearning/libero_10_image_task_1	EX	I3
+hf:continuallearning/libero_10_image_task_2	EX	I3
+hf:continuallearning/libero_10_image_task_3	EX	I3
+hf:continuallearning/libero_10_image_task_4	EX	I3
+hf:continuallearning/libero_10_image_task_5	EX	I3
+hf:continuallearning/libero_10_image_task_6	EX	I3
+hf:continuallearning/libero_10_image_task_7	EX	I3
+hf:continuallearning/libero_10_image_task_8	EX	I3
+hf:continuallearning/libero_10_image_task_9	EX	I3
+hf:continuallearning/pretraining_v1	EX	I3
+hf:coreml-projects/documentation-assets	EX	I2
+hf:cosineai/swe-bench-tooling	EX	I2
+hf:csyq/continual_agent_bench_v0511	EX	I1
+hf:csyq/continual_agent_bench_v0511_db	EX	E6
+hf:csyq/continual_agent_bench_v0511_kg	EX	E6
+hf:csyq/continual_agent_bench_v0511_os	EX	E6
+hf:dacorvo/funes-xiaowu0162-longmemeval-cleaned-s	EX	E6
+hf:dakwi/chessgpt2-dataset-l_deprecated	EX	I2
+hf:dakwi/chessgpt2-dataset-m_deprecated	EX	I2
+hf:dakwi/chessgpt2-dataset-s_deprecated	EX	I2
+hf:dal-289/conflict_dpo_0918_reformat_1030	EX	I2
+hf:darthzhu/vlm-knowledge-conflict	EX	I1
+hf:datasets-maintainers/audiofolder_no_configs_in_metadata	EX	I2
+hf:datasets-maintainers/audiofolder_single_config_in_metadata	EX	I2
+hf:datasets-maintainers/audiofolder_two_configs_in_metadata	EX	I2
+hf:datasets-maintainers/audiofolder_two_configs_in_metadata_with_default	EX	I2
+hf:daviddjtzafon/continual-tool-kimi-k2.5	EX	I2
+hf:dembandoye/fakedocuments_version_1	EX	I2
+hf:dhi-technologies/multicam-reasoning-memory-benchmark	EX	I3
+hf:doanhbc/wsi-continual-learning-dataset	EX	I3
+hf:dram-conflict/horror-scripts	EX	I2
+hf:dramstd/config	EX	I2
+hf:dthinking/longmemeval-s	EX	E6
+hf:duckliu/autoderivemaster_deprecated	EX	I2
+hf:dudulu66666/cartridge_longmem	EX	I1
+hf:dylanjhj/crux-mds-deprecated	EX	I2
+hf:ecnu-sii/continual-next	EX	I3
+hf:eduardopacheco/documentation-images	EX	I2
+hf:ekhlass/flutter_documentation	EX	I2
+hf:elegancey/longmemeval-cleaned	EX	E6
+hf:elvishelvis6/clear-continual_learning_benchmark	EX	I3
+hf:enternalsaga/config_sample	EX	I2
+# batch 9  (其余为名称含 documentation/deprecated/config/conflict 的无关数据集：I2)
+hf:evilander/audrey-memory-benchmark-artifacts	EX	I1
+hf:feedback-to-code/swe-bench__style-3__fs-oracle	EX	E6
+hf:feedback-to-code/swe-bench__style-3__fs-oracle_large_tokenlength	EX	E6
+hf:flageval/documentation-images	EX	I2
+hf:fredmo/meridian-documentation-qna-700	EX	I2
+hf:fredmo/vllm-documentation-qna-4000	EX	I2
+hf:friendliai/documentation-images	EX	I2
+hf:fumiyau/data_final_0.5_continual_chunked	EX	I2
+hf:fumiyau/data_final_0.5_continual_chunked_n1	EX	I2
+hf:fvdfs41/home_deprecated	EX	I2
+hf:gaotianyu1350/natural_question_dpr_version	EX	I2
+hf:gde05/agent-memory-bench-corpus	FT	
+hf:gonced8/multi-session_chat	EX	E1
+hf:gopher-lab/huberman_lab_dr._lex_fridman_navigating_conflict_finding_purpose__maintaining_drive	EX	I2
+hf:gopher-lab/huberman_lab_dr__lex_fridman_navigating_conflict_finding_purpose__maintaining_drive	EX	I2
+hf:gouzw/config	EX	I2
+hf:hanungaddi/router-configuration	EX	I2
+hf:harrywang01/memory-manip-bench	EX	I3
+hf:harrywang01/memory-t-bench	EX	I3
+hf:hawky-ai/longmemeval-results	EX	E6
+hf:hazyresearch/based-swde-deprecated	EX	I3
+hf:hhy13/longmemeval-pooled	EX	E6
+hf:hhy13/longmemeval-pooled-mcq	EX	E6
+hf:hqfang/memorybench	EX	I3
+hf:huggingface-course/documentation-images	EX	I2
+hf:huggingface/documentation-images	EX	I2
+hf:hugginglearners/russia-ukraine-conflict-articles	EX	I2
+hf:hwaseem04/documentation-files	EX	I2
+hf:interhin/fora-documentation	EX	I2
+hf:jdavit/colombian-conflict-sqa	EX	I2
+hf:jeffmeloy/python_documentation_code	EX	I2
+hf:jim-maar-uni/swe-bench__style-3__fs-oracle	EX	E6
+hf:jinaai/airbnb-synthetic-retrieval_deprecated	EX	I2
+hf:jinaai/arabic_chartqa_ar_deprecated	EX	I2
+hf:jinaai/arabic_infographicsvqa_ar_deprecated	EX	I2
+hf:jinaai/automobile_catalogue_jp_deprecated	EX	I2
+hf:jinaai/beverages_catalogue_ru_deprecated	EX	I2
+hf:jinaai/chartqa_deprecated	EX	I2
+hf:jinaai/charxiv-en_deprecated	EX	I2
+hf:jinaai/documentation-images	EX	I2
+hf:jinaai/donut_vqa_deprecated	EX	I2
+hf:jinaai/europeana-de-news_deprecated	EX	I2
+hf:jinaai/europeana-es-news_deprecated	EX	I2
+hf:jinaai/europeana-fr-news_deprecated	EX	I2
+hf:jinaai/europeana-it-scans_deprecated	EX	I2
+hf:jinaai/europeana-nl-legal_deprecated	EX	I2
+hf:jinaai/github-readme-retrieval-multilingual_deprecated	EX	I2
+hf:jinaai/hindi-gov-vqa_deprecated	EX	I2
+hf:jinaai/hungarian_doc_qa_deprecated	EX	I2
+hf:jinaai/jdocqa_deprecated	EX	I2
+hf:jinaai/jina_2024_yearly_book_deprecated	EX	I2
+hf:jinaai/medical-prescriptions_deprecated	EX	I2
+hf:jinaai/mmtab_deprecated	EX	I2
+hf:jinaai/mpmqa_small_deprecated	EX	I2
+hf:jinaai/openai-news_deprecated	EX	I2
+hf:jinaai/owid_charts_en_deprecated	EX	I2
+hf:jinaai/plotqa_deprecated	EX	I2
+hf:jinaai/ramen_benchmark_jp_deprecated	EX	I2
+hf:jinaai/shanghai_master_plan_deprecated	EX	I2
+hf:jinaai/stanford_slide_deprecated	EX	I2
+hf:jinaai/tweet-stock-synthetic-retrieval_deprecated	EX	I2
+hf:jinaai/wikimedia-commons-documents-ml_deprecated	EX	I2
+hf:jinaai/wikimedia-commons-maps_deprecated	EX	I2
+hf:jingyang/continual-next	EX	I3
+hf:jongbin-kr/mrqa_retrevied_with_conflict_and_answerable	EX	I1
+hf:jongbin-kr/mrqa_with_conflict_and_retrieved	EX	I1
+hf:jongbin-kr/mrqa_with_conflict_and_retrieved_backup	EX	E6
+hf:jorge-henao/historias_conflicto_colombia	EX	I2
+hf:june9876/conflict_conversations	EX	I2
+hf:june9876/conflictdata	EX	I1
+hf:jvelja/apps_backdoored_round_0_deprecated	EX	I2
+hf:jvelja/apps_checkable_filtered-verifier-regressor_deprecated	EX	I2
+hf:jvelja/apps_checkable_filtered_deprecated	EX	I2
+hf:jvelja/apps_clean_round_0_deprecated	EX	I2
+hf:kaahila/sugarcrm_130_documentation	EX	I2
+# batch 10  (LongMemEval/MemoryAgentBench/SWE-bench 重传或子集 E6；MSC 多会话闲聊 E1；仅含结果的仓库 I1)
+hf:kakezh/memoryagentbench	EX	E6
+hf:keboola/developer-documentation-qa	EX	I2
+hf:keboola/user-documentation-qa	EX	I2
+hf:keethu/kubernetes-documentation-dataset	EX	I2
+hf:kellyhongg/cleaned-longmemeval-s	EX	E6
+hf:khangptt373/longmemeval_preprocess	EX	E6
+hf:khangptt373/longmemeval_s	EX	E6
+hf:khangptt373/longmemeval_s_processed	EX	E6
+hf:khartrise/multi-session-ground-texture-data	EX	I3
+hf:kushalicious/agent-memory-benchmark	FT	
+hf:kwamepuni/materials-project-documentation	EX	I2
+hf:latency-sensitive-bench/memory-rollouts	EX	I1
+hf:ldowey/swe_mon_benchmark	EX	I2
+hf:leo20000306/continualllava	EX	I3
+hf:leo20000306/continualllvnext	EX	I3
+hf:lesile/sd-webui-config	EX	I2
+hf:lhoestq/multi-configs	EX	I2
+hf:lifelonglab/continual-energy-plants-anomaly-detection	EX	I3
+hf:lifelonglab/continual-nsl-kdd	EX	I3
+hf:lifelonglab/continual-unsw-anomaly-detection	EX	I3
+hf:lifelonglab/continual-wind-energy-anomaly-detection	EX	I3
+hf:littledinoc/memorybench-off-policy-results	EX	I1
+hf:lixinyi33/longmemeval	EX	E6
+hf:lixinyi33/longmemeval-s	EX	E6
+hf:lorenoamori/longmemeval	EX	E6
+hf:lxm001/config	EX	I2
+hf:m-ric/transformers_documentation_en	EX	I2
+hf:maisaai/contextual_memory_benchmark_results	EX	I1
+hf:maiya/sd_config_files	EX	I2
+hf:manna-ai/swe-bench_lite_unstable	EX	E6
+hf:manna-ai/swe-bench_mini	EX	E6
+hf:manna-ai/swe-bench_nano	EX	E6
+hf:marjoriesaul/kg-sd-config	EX	I2
+hf:marjoriesaul/new-kg-sd-config	EX	I2
+hf:marjoriesaul/sd-config	EX	I2
+hf:marziye-a/dataset-farma-version1	EX	I2
+hf:megacamelus/camel-documentation	EX	I2
+hf:mehyaar/conflict_tweets	EX	I2
+hf:memory-vla/memorybench-lerobot	EX	I3
+hf:memoryasmodality/longmemeval	EX	E6
+hf:memoryasmodality/longmemeval-eval	EX	E6
+hf:memoryasmodality/longmemeval-s	EX	E6
+hf:memoryasmodality/longmemeval-s-eval	EX	E6
+hf:mihirch/swe-bench__test-style-3__fs-test	EX	E6
+hf:mindbend0x/longmemeval	EX	E6
+hf:mindbend0x/longmemeval-v2	EX	E6
+hf:mizukico/sd-config	EX	I2
+hf:mkj3085003/arxiv_two_months_version	EX	I2
+hf:moce/optimized-sd-config	EX	I2
+hf:moenupa/memorybench-full	EX	I1
+hf:monsterapi/no_robots_chatformatted_version1	EX	I2
+hf:monsterapi/no_robots_chatformatted_version2	EX	I2
+hf:moorcheh/memanto-longmem-results	EX	E6
+hf:moresearch/swebench-originals	EX	E6
+hf:mteb/longmemeval	EX	E6
+hf:mtheaustin/micro_platypus_chat_version	EX	I2
+hf:mustbesaltyfish/memoryagentbench-conflict-full	EX	E6
+hf:myronkoch/reminisce-longmemeval-results	EX	E6
+hf:nateraw/documentation-images	EX	I2
+hf:nayohan/141_korean_multi_session_dialogue	EX	E1
+hf:nayohan/multi_session_chat	EX	E1
+hf:nayohan/multi_session_chat_transformed	EX	E1
+hf:nbalepur/doc_conflict_summary_split_combined	EX	I2
+hf:nhatto12/text_correction_vietnamese_documentation	EX	I2
+hf:nithish2410/benchmark-longmemeval	EX	E6
+hf:nithish2410/benchmark-longmemeval_small	EX	E6
+hf:nithish2410/benchmark-longmemeval_small_session	EX	E6
+hf:nithish2410/benchmark-longmemsmallchat	EX	E6
+hf:nithish2410/benchmark-longmemsmallsession	EX	E6
+hf:noblemathews/swe-bench__style-2-both-edits__fs-oracle	EX	E6
+hf:noblemathews/swe-bench__style-2-edits-only-tests__fs-oracle	EX	E6
+hf:noblemathews/swe-bench__style-2-edits-only__fs-oracle	EX	E6
+hf:noblemathews/swe-bench__style-2-tests__fs-oracle	EX	E6
+hf:notmehul/memory-bench	FT	
+hf:open-llm-leaderboard-old/details_expert68__llama2_13b_instructed_version2	EX	I2
+# batch 11  (SWE-bench 本体 I2，其变体/检索版 E6)
+hf:opencompass/swebench-pro-verified	EX	E6
+hf:opendrivelab-org/nexus-data-deprecated	EX	I3
+hf:openhandscommunity/devin-swe-bench-output	EX	E6
+hf:openhandscommunity/swe-bench-devin-full	EX	E6
+hf:openhandscommunity/swe-bench-devin-full-filtered	EX	E6
+hf:openhandscommunity/swe-bench-devin-passed	EX	E6
+hf:openvino/documentation	EX	I2
+hf:optimum/documentation-images	EX	I2
+hf:orionweller/memoryagentbenchsinglerow	EX	E6
+hf:osunlp/conflictqa	FT	
+hf:overcoder/multi_session_chat	EX	E1
+hf:pacovaldez/pandas-documentation	EX	I2
+hf:partha117/swe_bench_formatted	EX	E6
+hf:phanikiran1169/memorybench-extended	EX	I3
+hf:philschmid/markdown-documentation-transformers	EX	I2
+hf:phongmt184172/python_code_version2	EX	I2
+hf:phudish/continual_learning_phase_1_eval_questions	EX	I2
+hf:phudish/continual_learning_phase_2_eval_questions	EX	I2
+hf:pietrolesci/multiwoz_all_versions	EX	I2
+hf:polinaeterna/audio_configs	EX	I2
+hf:polinaeterna/audio_configs2	EX	I2
+hf:polinaeterna/audio_configs_default	EX	I2
+hf:polinaeterna/audio_configs_default_and_custom	EX	I2
+hf:polinaeterna/audio_configs_single_nondefault_name	EX	I2
+hf:polinaeterna/audiofolder_no_configs_in_metadata	EX	I2
+hf:polinaeterna/audiofolder_one_default_config_in_metadata	EX	I2
+hf:polinaeterna/audiofolder_one_nondefault_config_in_metadata	EX	I2
+hf:polinaeterna/audiofolder_two_configs_in_metadata	EX	I2
+hf:polinaeterna/default_config	EX	I2
+hf:polinaeterna/default_configs	EX	I2
+hf:polinaeterna/no_configs_in_metadata_copy	EX	I2
+hf:polinaeterna/push_configs	EX	I2
+hf:polinaeterna/push_configs_dict	EX	I2
+hf:polinaeterna/push_to_hub_config_none	EX	I2
+hf:polinaeterna/push_to_hub_config_none_be56a8b	EX	I2
+hf:polinaeterna/push_to_hub_many_configs	EX	I2
+hf:polinaeterna/push_to_hub_singe_nondefault_config	EX	I2
+hf:polinaeterna/push_to_hub_single_config	EX	I2
+hf:polinaeterna/push_to_hub_split_config_none	EX	I2
+hf:polinaeterna/test_push_two_configs	EX	I2
+hf:polinaeterna/texts_configs	EX	I2
+hf:poludmik/pandas_documentation	EX	I2
+hf:poulami/processed_bert_dataset_version_1	EX	I2
+hf:prachigarg23/poet-ntu60-continual-few-shot-splits	EX	I3
+hf:prakhar1000/api_documentation_dataset_alpaanco	EX	I2
+hf:princeton-nlp/swe-bench	EX	I2
+hf:princeton-nlp/swe-bench_bm25_13k	EX	E6
+hf:princeton-nlp/swe-bench_bm25_13k_cl100k	EX	E6
+hf:princeton-nlp/swe-bench_bm25_27k	EX	E6
+hf:princeton-nlp/swe-bench_bm25_27k_cl100k	EX	E6
+hf:princeton-nlp/swe-bench_bm25_40k	EX	E6
+hf:princeton-nlp/swe-bench_bm25_50k_llama	EX	E6
+hf:princeton-nlp/swe-bench_gpt4_subset	EX	E6
+hf:princeton-nlp/swe-bench_lite	EX	E6
+hf:princeton-nlp/swe-bench_lite_bm25_13k	EX	E6
+hf:princeton-nlp/swe-bench_lite_bm25_27k	EX	E6
+hf:princeton-nlp/swe-bench_lite_oracle	EX	E6
+hf:princeton-nlp/swe-bench_oracle	EX	E6
+hf:princeton-nlp/swe-bench_oracle_cl100k	EX	E6
+hf:princeton-nlp/swe-bench_oracle_llama	EX	E6
+hf:princeton-nlp/swe-bench_verified	EX	E6
+hf:psetialana/multi_session_chat-indonesia	EX	E1
+hf:psetialana/multi_session_chat-informal_indonesian	EX	E1
+hf:psetialana/multi_session_chat-informal_indonesian-transformed	EX	E1
+hf:pyrihtm/product_100_deprecated	EX	I2
+hf:qinzhu/moevoice_config	EX	I2
+hf:qlin/negotiation_conflicts	EX	I2
+hf:rainiernate/process-documentation	EX	I2
+hf:rajivmehtapy/reddit-builder-config	EX	I2
+hf:rayleihaodong/memcot-longmemeval	EX	E6
+hf:reasoning-degeneration-dev/researchgym-continual-learning-gpt4o-20260311	EX	I1
+hf:ricardo-larosa/swe-bench_lite_dev_extended	EX	E6
+hf:riverrider/swebench-localisation	EX	E6
+hf:robin076/memoryagentbench	EX	E6
+hf:rubenforcoding/complex_code_documentation_dataset	EX	I2
+# batch 12  (规则：HF 记录无数据卡且无关联论文 → I1，已追溯应用于前批；moenupa/memorybench-full 为 THUIR/MemoryBench 副本 → E6)
+hf:ruggsea/continual-eval	FT	
+hf:sauravjoshi23/aws-documentation-chunked	EX	I2
+hf:scaleai/swe-bench_pro	EX	I2
+hf:seanvelasco/tiktok-middle-east-conflict-philippines	EX	I2
+hf:sefika/continual-re-survey-taxonomy	EX	I2
+hf:seongill/nq_conflict_10_full	EX	I1
+hf:seongill/nq_conflict_10_half	EX	I1
+hf:seongill/nq_conflict_5_full	EX	I1
+hf:seongill/nq_conflict_5_half	EX	I1
+hf:seongill/squad_conflict	EX	I1
+hf:seongill/squad_conflict_all	EX	I1
+hf:seongill/squad_conflict_v2	EX	I1
+hf:seongill/squad_conflict_v2_under_150	EX	I1
+hf:seongill/squad_conflict_v2_under_150_with_substitution	EX	I1
+hf:seongill/squad_conflict_v2_under_150_with_substitution_chunked	EX	I1
+hf:seongill/squad_conflict_v2_under_150_with_substitution_chunked_with_wiki_similar	EX	I1
+hf:seongill/triviaqa_conflict_5_full_small	EX	I1
+hf:seongill/triviaqa_conflict_5_half_small	EX	I1
+hf:seongill/triviaqa_conflict_5_small_v2	EX	I1
+hf:shahradmz/cppo_continual_dataset_reward_others	EX	I3
+hf:shahradmz/cppo_continual_dataset_reward_relationships	EX	I3
+hf:shahradmz/cppo_continual_dataset_rl_others	EX	I3
+hf:shahradmz/cppo_continual_dataset_rl_relationships	EX	I3
+hf:shiliu-memory/longmemeval-cn	EX	E6
+hf:silverlabs/swebench_test_with_pr_metadata	EX	E6
+hf:siviltaram/starcoder2-documentation	EX	I2
+hf:sizhe-lester-li/neural-jacobian-field-deprecated	EX	I1
+hf:skiml-icl/mrqa_conflict_retrieved_v2	EX	I1
+hf:skiml-icl/mrqa_with_conflict_and_retrieved	EX	I1
+hf:skiml-icl/nq_retrieved_conflict	EX	I1
+hf:solsticestudioai/mnemosyne-memory-lifecycle-benchmark	FT	
+hf:songlab/deprecated-clinvar-missense	EX	I1
+hf:songlab/deprecated-full-gnomad	EX	I3
+hf:songlab/deprecated-human_variants	EX	I3
+hf:sourcegraph/swe-bench-autocomplete-multiline-eval	EX	E6
+hf:ssunggun2/conflict_case_mrqa_llama_3_70b_instruct	EX	I1
+hf:ssunggun2/conflict_passage_mrqa_llama_3_70b_instruct	EX	I1
+hf:ssunggun2/deprec_conflict_case	EX	I1
+hf:ssunggun2/deprec_conflict_pass	EX	I1
+hf:stair-lab/deprecated_irsl_downstream_resmat_on_different_machine	EX	I1
+hf:stromerthaha/documentation	EX	I2
+hf:sukaka/sd_configs	EX	I2
+hf:swe-bench/swe-bench	EX	I2
+hf:swe-bench/swe-bench_lite	EX	E6
+hf:swe-bench/swe-bench_verified	EX	E6
+hf:syntaxsynth/swe-bench-opus-logs	EX	E6
+hf:syscore733/db_config	EX	I2
+hf:tarsur385/swebench-verified-trajectories	EX	E6
+hf:text2font/words_with_path_tags_version_2	EX	I2
+hf:text2font/words_with_path_tags_version_2_splitted	EX	I2
+hf:text2font/words_with_path_tags_version_2_test	EX	I2
+hf:text2font/words_with_path_tags_version_2_train	EX	I2
+hf:text2font/words_with_path_tags_version_2_valid	EX	I2
+hf:thuir/memorybench	FT	
+hf:thuir/memorybench-full	EX	E6
+hf:thuir/memorybench-results	EX	I1
+hf:tiiuae/documentation-images	EX	I2
+hf:topline/configs	EX	I2
+hf:trentdoney/braincore-memory-benchmark	FT	
+hf:trietlm0306/longmemeval-locomo-distilled	EX	E6
+hf:trl-lib/documentation-images	EX	I2
+hf:trootechaiml/fashion_product_images_small_version_0	EX	I2
+hf:tylbar/mastra-longmemeval-workshop-data	EX	E6
+hf:tylerbuck1/so-documentation	EX	I2
+hf:vec-ai/longmemevalm	EX	E6
+hf:version-control/arrayblow-1.0-oss	EX	I1
+hf:version-control/arrayblow-1.0-test	EX	I1
+hf:version-control/arrayblow-1.0-train	EX	I1
+hf:version-control/arrayblow-2.7	EX	I1
+hf:version-control/data-0	EX	I1
+hf:version-control/data-1	EX	I1
+hf:version-control/data-2	EX	I1
+hf:version-control/ds-lib-extract-1m	EX	I1
+hf:version-control/ds-lib-version-0	EX	I1
+hf:version-control/ds-lib-version-0-normalized	EX	I1
+# batch 13  (OpenAlex 相关度弱，出现大量无关综述/优化算法论文：I2)
+hf:version-control/ds-lib-version-1	EX	I1
+hf:version-control/ds-lib-version-1-normalized	EX	I1
+hf:version-control/ds-lib-version-10k	EX	I1
+hf:version-control/ds-lib-version-2	EX	I1
+hf:version-control/ds-lib-version-2-normalized	EX	I1
+hf:version-control/ds-lib-version-3	EX	I1
+hf:version-control/ds-lib-version-test	EX	I1
+hf:version-control/tensorflow-1.0-oss	EX	I1
+hf:version-control/tf-1.0-1.13	EX	I1
+hf:version-control/tf-1.0-1.13-oss-seed	EX	I1
+hf:version-control/tf-1.0-1.13-oss-seed-1.0	EX	I1
+hf:version-control/tf-1.0-1.13-oss-seed-sample	EX	I1
+hf:version-control/tf-2.2-2.7	EX	I1
+hf:version-control/the-stack-ds-lib-100k	EX	I1
+hf:version-control/the-stack-ds-lib-100k-trace-version	EX	I1
+hf:version-control/the-stack-ds-lib-10k	EX	I1
+hf:version-control/the-stack-ds-lib-50k	EX	I1
+hf:vi0509/longmemeval-com-dom-per-question	EX	E6
+hf:visheratin/documentation-images	EX	I2
+hf:vjs123/cleaned-longmemeval-s	EX	E6
+hf:vovovo/kaggle_sd_config	EX	I2
+hf:waleko/swe-bench-traceback	EX	E6
+hf:wallfacers/agent-memory-trigger-bench	FT	
+hf:weaviate/longmemeval-m-cleaned	EX	E6
+hf:weaviate/longmemeval-s-cleaned	EX	E6
+hf:william94/multi-session-chat	EX	E1
+hf:xdit/documentation-images	EX	I2
+hf:xiaowu0162/longmemeval	EX	E6
+hf:xiaowu0162/longmemeval-cleaned	EX	E6
+hf:xiaowu0162/longmemeval-v2	FT	
+hf:xiaoyuanliu/conflict_vis	EX	I1
+hf:xiaoyuanliu/longmemeval-s	EX	E6
+hf:xiaoyuanliu/longmemeval-s-50	EX	E6
+hf:xxsc88/sd_config	EX	I2
+hf:xxxxinin1/longmemeval	EX	E6
+hf:yacahu/sd_configs	EX	I2
+hf:yashodhr/cncf_documentation_unified_data	EX	I2
+hf:ybelkada/documentation-images	EX	I2
+hf:yjching/sas-documentation-v1	EX	I2
+hf:yjching/sas_documentation_v3	EX	I2
+hf:ymrohit/icml2026-64918-memorybench-repro-results	EX	I1
+hf:younanna/conflictqa	EX	E6
+hf:yuwangx/memalpha-memoryagentbench	EX	E6
+hf:yuyijiong/longmemeval_24k	EX	E6
+hf:ywpl/sd_config	EX	I2
+hf:zhjiho/conflict_dataset	EX	I1
+hf:zrk222/wizeme-memory-benchmarks	EX	I1
+hf:zsjtiger/longmemeval-v2	EX	E6
+hf:zym1/sd_configs	EX	I2
+oa:W4313527987	EX	I2
+oa:W4317733412	EX	I2
+oa:W4318486548	EX	I2
+oa:W4319595422	EX	I2
+oa:W4321242117	EX	I2
+oa:W4323042384	EX	I2
+oa:W4361206176	EX	I2
+oa:W4362602778	EX	I2
+oa:W4362718428	EX	I2
+oa:W4364382146	EX	I2
+oa:W4366547692	EX	I2
+oa:W4366550022	EX	I2
+oa:W4366590727	EX	I2
+oa:W4376564338	EX	I2
+oa:W4380082501	EX	I2
+oa:W4383903993	EX	I2
+oa:W4384787750	EX	I2
+oa:W4385152564	EX	I2
+oa:W4385383529	EX	I2
+oa:W4385603076	EX	I2
+oa:W4386121635	EX	I2
+oa:W4386416896	EX	I2
+oa:W4386896216	EX	I2
+oa:W4386978189	EX	I2
+oa:W4387835442	EX	I2
+oa:W4388205884	EX	I2
+# batch 14
+oa:W4388489043	EX	I2
+oa:W4389159035	FT	
+oa:W4389159862	FT	
+oa:W4389352644	EX	I2
+oa:W4389396452	EX	I2
+oa:W4389524066	EX	I1
+oa:W4390101654	EX	I2
+oa:W4390317718	EX	I2
+oa:W4390480531	EX	I2
+oa:W4390738702	EX	I2
+oa:W4390970201	EX	I2
+oa:W4391430623	EX	I2
+oa:W4392159492	EX	I2
+oa:W4392168796	EX	I2
+oa:W4392297482	EX	I2
+oa:W4393191843	EX	I2
+oa:W4393864282	EX	I2
+oa:W4394717739	EX	I2
+oa:W4394745299	EX	I2
+oa:W4394745858	EX	I2
+oa:W4394780005	EX	I2
+oa:W4400770731	EX	I2
+oa:W4400869639	EX	I2
+oa:W4401352815	EX	I2
+oa:W4402283920	EX	I2
+oa:W4402510306	EX	I2
+oa:W4402671956	EX	I2
+oa:W4402683861	EX	I2
+oa:W4403828883	EX	I2
+oa:W4404161306	EX	I2
+oa:W4404625369	EX	I2
+oa:W4404747729	EX	I2
+oa:W4404782782	EX	I1
+oa:W4404782882	EX	I2
+oa:W4404860201	EX	I2
+oa:W4404900414	EX	I2
+oa:W4405640587	EX	I2
+oa:W4405654385	EX	I2
+oa:W4405974156	EX	I2
+oa:W4406034921	EX	I2
+oa:W4407163436	EX	I2
+oa:W4407776787	EX	I2
+oa:W4408000419	EX	I2
+oa:W4408278690	EX	I2
+oa:W4408691084	EX	I2
+oa:W4408734515	EX	I2
+oa:W4408750084	EX	I2
+oa:W4409190069	EX	I2
+oa:W4409431856	EX	I2
+oa:W4409965657	EX	I2
+oa:W4409992000	EX	I2
+oa:W4410050414	EX	I2
+oa:W4410061972	EX	I2
+oa:W4410188078	EX	I2
+oa:W4410247559	EX	I2
+oa:W4410251856	EX	I2
+oa:W4410408833	EX	I2
+oa:W4410523928	EX	I1
+oa:W4410540918	FT	
+oa:W4410600818	EX	I2
+oa:W4410601015	EX	I2
+oa:W4410849287	EX	I2
+oa:W4411004065	EX	I2
+oa:W4411058313	EX	I2
+oa:W4411119518	FT	
+oa:W4411152968	EX	I2
+oa:W4411208417	EX	I2
+oa:W4411345221	EX	I2
+oa:W4411436335	EX	I2
+oa:W4411523022	EX	I2
+oa:W4411523044	EX	I1
+oa:W4411523078	EX	I2
+oa:W4411523086	EX	I2
+oa:W4411659439	EX	I2
+oa:W4411710400	EX	I2
+# batch 15
+oa:W4411804834	EX	I2
+oa:W4411823698	EX	I2
+oa:W4411869316	EX	I2
+oa:W4412035907	EX	I2
+oa:W4412100992	EX	I2
+oa:W4412151941	EX	I2
+oa:W4412620583	EX	I2
+oa:W4412687565	EX	I2
+oa:W4412875540	EX	I2
+oa:W4412887937	EX	I2
+oa:W4412888714	FT	
+oa:W4412889372	EX	I2
+oa:W4413004618	EX	I2
+oa:W4413301295	EX	I2
+oa:W4413369828	EX	I2
+oa:W4413428950	EX	I2
+oa:W4413467249	EX	I2
+oa:W4413480510	EX	I2
+oa:W4413782100	EX	I2
+oa:W4413794680	EX	I2
+oa:W4413954741	EX	I2
+oa:W4414000703	EX	I2
+oa:W4414091311	EX	I2
+oa:W4414093251	EX	I2
+oa:W4414163938	EX	I2
+oa:W4414250324	EX	I2
+oa:W4414701757	EX	I2
+oa:W4414722558	EX	I1
+oa:W4414799483	EX	I2
+oa:W4414887553	EX	I2
+oa:W4414913062	EX	I2
+oa:W4415190693	EX	I2
+oa:W4415259802	EX	I2
+oa:W4415551527	EX	I2
+oa:W4415674079	EX	I2
+oa:W4415723227	EX	I2
+oa:W4415775422	EX	I2
+oa:W4415946496	EX	I2
+oa:W4416028665	EX	I2
+oa:W4416034315	EX	I2
+oa:W4416035654	EX	I2
+oa:W4416037126	EX	I2
+oa:W4416075053	EX	I2
+oa:W4416105137	EX	I2
+oa:W4416127292	EX	I2
+oa:W4416188316	EX	I2
+oa:W4416293907	FT	
+oa:W4416350090	EX	I2
+oa:W4416398086	EX	I2
+oa:W4416402923	EX	I1
+oa:W4416768581	EX	I2
+oa:W4416850781	EX	I2
+oa:W4417130747	EX	I2
+oa:W4417327731	EX	I1
+oa:W4417401304	EX	I2
+oa:W7114889968	EX	I2
+oa:W7116877536	EX	I1
+oa:W7116940237	EX	I2
+oa:W7117249417	EX	I2
+oa:W7117986201	EX	I2
+oa:W7118169400	EX	I2
+oa:W7118303016	EX	I2
+oa:W7118784573	EX	I2
+oa:W7119124574	EX	I1
+oa:W7119331061	EX	I2
+oa:W7123456014	EX	I2
+oa:W7124310453	EX	I2
+oa:W7124497321	EX	I2
+oa:W7125221060	EX	I1
+oa:W7125509325	EX	I2
+oa:W7125564803	EX	I2
+oa:W7125688199	EX	I2
+oa:W7127593423	EX	I2
+oa:W7127956922	EX	I2
+oa:W7128061266	EX	I2
+# batch 16  (OpenReview API 不限年份：2023 年前记录 I4；已收录论文的 OpenReview 版本 E6；E5 仅指改权重的知识编辑，时效性评测基准不属 E5)
+oa:W7128163285	EX	I2
+oa:W7128435388	EX	I2
+oa:W7128615700	EX	I2
+oa:W7129139640	EX	I2
+oa:W7130397623	EX	I2
+oa:W7130649555	EX	I2
+oa:W7131250141	EX	I2
+oa:W7131641432	EX	I2
+oa:W7131698947	EX	I2
+oa:W7131778478	EX	I2
+oa:W7133135653	EX	I2
+oa:W7133208138	EX	I2
+oa:W7133255133	EX	I2
+oa:W7134191807	EX	I2
+oa:W7135175652	EX	I2
+oa:W7138914019	EX	I2
+oa:W7139987941	EX	I2
+oa:W7140106622	EX	I2
+oa:W7140434011	EX	I2
+oa:W7143374110	EX	I2
+oa:W7147509872	EX	I2
+oa:W7147716548	EX	I2
+oa:W7149012248	EX	I2
+oa:W7151487234	EX	I2
+oa:W7153290859	EX	I2
+oa:W7154086917	EX	I2
+oa:W7154685956	EX	I2
+oa:W7155509515	EX	I2
+oa:W7155717114	EX	I2
+oa:W7160130809	EX	I1
+oa:W7160158537	EX	I2
+oa:W7160249288	EX	I2
+oa:W7160533008	EX	I2
+oa:W7162496031	EX	I2
+oa:W7162685839	EX	I2
+oa:W7163341066	EX	I2
+oa:W7164160483	EX	I1
+oa:W7164493495	EX	I2
+oa:W7165991931	EX	I1
+oa:W7166823182	EX	I1
+oa:W7166825402	EX	I1
+oa:W7166853577	EX	I1
+oa:W7169796598	EX	I2
+oa:W7171826765	FT	
+oa:W7204075121	EX	I2
+oa:W7204668161	EX	I2
+oa:W7213443207	EX	I2
+or:0Gdfi27NPs	FT	
+or:0cqf9Skrnh	EX	I4
+or:1IFvmXGHvw	EX	I4
+or:1LEqvlA8HX	EX	I4
+or:1luMJ8oSru	EX	I4
+or:1tCuHWFxzq	EX	I2
+or:1zCrxCUNtW	FT	
+or:21prV3HsHl	EX	I3
+or:2C2aFcherR	EX	I2
+or:2ODQknEdUH	EX	E5
+or:2SjhmdF9Sw	EX	I2
+or:2xRilki3vv	EX	I4
+or:2xjIYTX5Cj	EX	I3
+or:2xvlW5hp0J	FT	
+or:3F1AgHfxhB	EX	E6
+or:4R71pdPBZp	EX	I1
+or:5LvLNgq5AF	EX	I4
+or:5PYjbwazJI	EX	I2
+or:5aAV9weVDl	EX	I4
+or:5swYRbZDvG	EX	I4
+or:6WYjBeIioq	FT	
+or:6ZvINpYdOA	EX	I2
+or:7QI6Kh4DhO	EX	E6
+or:7rxn2wnx88	EX	E6
+or:81Dpzqldxw	EX	E6
+or:9UQVr1BVnJ	EX	I4
+or:9W9VkVyvIe	EX	I1
+or:Ab89SiBpCD	EX	I4
+# batch 17
+or:AhFsKmuaCb	EX	I2
+or:B4JBE7ZfwQ	EX	I1
+or:B9gtT1hhEm	FT	
+or:BUflU3hxSW	FT	
+or:BV6QBwZkfK	EX	I2
+or:CKUXGzI8sQ	EX	I3
+or:CiI7SiR0wv	EX	I2
+or:CnhrrB81uM	EX	I1
+or:FGF76jSGSd	EX	I4
+or:FIKHOPvFbU	EX	I4
+or:FwFd5UFsJH	EX	I2
+or:G7SvXzrAh0	EX	I4
+or:GvzjxxmPfG	EX	I4
+or:HiqcfJyIUF	EX	I2
+or:Hk7df7fIwy	EX	E5
+or:J3yai8tqvX	EX	I2
+or:K94qyYENEL	EX	I4
+or:Kjo9vf2ihV	FT	
+or:L8GzXELeW8	EX	I4
+or:LhmQ9hatxJ	EX	I2
+or:M3mSzWOwoW	EX	I2
+or:MHc9XNO7Zh	FT	
+or:MSXbrNExax	FT	
+or:Mxg6mo1Xzj	EX	I3
+or:NLDeP0ZbHD	EX	I4
+or:NRftGYUcPk	EX	I4
+or:OlLGzVF1Bz	EX	I1
+or:P0ZzId4t1I	EX	I2
+or:PLLDE1nBXT	EX	I2
+or:PMz29A7Muq	EX	I1
+or:PZf4RsPMBG	EX	I1
+or:QT3P7O9Pbm	EX	I4
+or:Qf7hkFXLYC	FT	
+or:QsWmXe9yFQ	EX	I2
+or:RVXQLurVYO	EX	I2
+or:Sa73ezbC6z	EX	I4
+or:T5jNexBUwV	EX	I4
+or:TbpUMoscJx	EX	I4
+or:Tvr3ZoZtat	EX	I1
+or:UVY5Dm1x8z	EX	I2
+or:UaMblc9LFc	EX	I4
+or:VMqwfsC42r	EX	I2
+or:VW6tFQVC07	EX	I4
+or:VffmwL8ccZ	EX	I4
+or:X9XzoprSo7	EX	I4
+or:XbkaJjqLH3	EX	I4
+or:Xywyk7lUbK	EX	I4
+or:YksYlpoLdo	EX	I2
+or:YnQw8mh4TQ	EX	I4
+or:ZrRcHYR8N4	EX	I2
+or:cXGvYYQXIt	EX	I4
+or:cc18pvWqb9	EX	I2
+or:dfSeShiKNC	FT	
+or:dyODoUzZe4	EX	I2
+or:ecQZrMtBKz	EX	I4
+or:ehgYRrEFtL	EX	I4
+or:eiw7dgCNad	EX	I1
+or:fMG1EpPkEX	EX	I2
+or:hOaZ028NGH	EX	I2
+or:iJSzvm22Fl	EX	E5
+or:iQgLMNEWsi	EX	I4
+or:ixIj874skc	FT	
+or:jj8I3I0c7o	EX	I2
+or:kA4s7F8x3O	EX	I4
+or:kLI8WhnVXA	EX	I2
+or:kWrudm978A	EX	I2
+or:krrO4Xk4Iq	EX	I2
+or:l0Vfigga9Z	FT	
+or:lNdZ2j9F8y	EX	I4
+or:lbPRON62gL	EX	I2
+or:ls3N6A97mX	EX	I3
+or:mAyyfhSGDC	FT	
+or:mZED9IsOMf	EX	I3
+or:mZuJFHhGD9	EX	I1
+or:n577FC6CKk	EX	I2
+# batch 18
+or:n7Mk11IVX8	EX	I2
+or:nPZl3CjPQ8	FT	
+or:nvUryChPlp	EX	E6
+or:oqVqWE5mwU	EX	I1
+or:pERJAy5kI1	EX	I2
+or:pRyqaoxMvQ	EX	I1
+or:pU2l5JYoYX	EX	I2
+or:pqI31YBiMF	EX	I1
+or:qfIr9mtki8	EX	I4
+or:quJeboj5Z2	EX	I4
+or:qwWne9xtSf	FT	
+or:r2AHqI1X4R	EX	I2
+or:r2G9STbNKE	EX	I2
+or:rNg7eN7WfN	EX	I4
+or:rUcA3S4Bm9	EX	I4
+or:rchD8pEe4f	EX	I2
+or:riHpUZzP1h	FT	
+or:rjmKCa4AaI	EX	I4
+or:rq8E9nPUG9	FT	
+or:rtLKkWd2IN	EX	I2
+or:sX51FkvGs2	EX	I1
+or:srTevXQMTj	EX	I1
+or:t32Hgnk7ou	EX	I2
+or:tVHG5tUtBg	EX	I4
+or:tbwZA6hahE	EX	I1
+or:u0gE1gnNEn	EX	I4
+or:vICntNHWwW	EX	I4
+or:w6k9md4jLi	EX	I4
+or:wC7IjzOANL	EX	I2
+or:wHm5J9uanV	EX	E5
+or:wUpEfmE63a	EX	I3
+or:wZVFqMBI7J	EX	I4
+or:wob8pNM1rt	EX	I1
+or:xHFgRSPtKq	EX	I4
+or:xU0lx9dIbh	FT	
+or:xugAvp7SvO	EX	E5
+or:yfRkNRFLzl	EX	I2
+or:yjiOmIIDkG	EX	I4
+or:z6SWin6jPt	EX	I4
+or:zRqgmMi81q	EX	I4
+or:zc6hi4paAB	EX	I1

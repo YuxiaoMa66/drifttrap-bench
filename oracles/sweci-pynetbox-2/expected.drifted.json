@@ -1,0 +1,7 @@
+{
+  "case_id": "sweci-pynetbox-2",
+  "drifted_keys": [
+    "HTTP 会话"
+  ],
+  "trap_signature": "assert \\{\\} ==|http_session"
+}

@@ -1,0 +1,17 @@
+{
+  "schema": "gmr-drift-bench-l1-labels.v1",
+  "anchors": [
+    {
+      "key": "PDF 对象引用",
+      "coordinate": "repo/pdfsyntax/objects.py#parse_obj"
+    }
+  ],
+  "conditions": {
+    "drifted": {
+      "PDF 对象引用": "handed_back"
+    },
+    "stable": {
+      "PDF 对象引用": "silent"
+    }
+  }
+}

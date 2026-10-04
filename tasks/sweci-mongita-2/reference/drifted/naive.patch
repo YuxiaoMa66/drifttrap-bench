@@ -1,0 +1,9 @@
+diff -ruN a/repo/store_helpers.py b/repo/store_helpers.py
+--- a/repo/store_helpers.py	1970-01-01 01:00:00
++++ b/repo/store_helpers.py	2026-09-25 12:26:24
+@@ -0,0 +1,5 @@
++from mongita.common import Location, StorageObject
++
++
++def stash_doc(engine, db_name, coll_name, doc):
++    engine.upload_doc(Location(database=db_name, collection=coll_name, _id=doc["_id"]), StorageObject(doc))

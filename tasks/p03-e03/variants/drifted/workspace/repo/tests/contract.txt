@@ -1,0 +1,1 @@
+endpoint=/v2/payments env=PAYMENTS_URL tls=true

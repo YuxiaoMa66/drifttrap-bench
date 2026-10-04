@@ -1,0 +1,6 @@
+# 项目笔记
+
+- primary_region: "us-east"
+- timeout: 50
+- encryption: "aes256"
+- replicas: 3

@@ -1,0 +1,7 @@
+{
+  "case_id": "extv2-2",
+  "drifted_keys": [
+    "库存服务认证方式"
+  ],
+  "trap_signature": "X-Shop-Key"
+}

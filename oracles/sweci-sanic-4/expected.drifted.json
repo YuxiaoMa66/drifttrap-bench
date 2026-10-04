@@ -1,0 +1,7 @@
+{
+  "case_id": "sweci-sanic-4",
+  "drifted_keys": [
+    "列出 cookie"
+  ],
+  "trap_signature": "has no attribute 'keys'"
+}

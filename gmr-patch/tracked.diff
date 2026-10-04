@@ -1,0 +1,34 @@
+diff --git a/console/cli/src/lib.rs b/console/cli/src/lib.rs
+index b52c4e4..3572544 100644
+--- a/console/cli/src/lib.rs
++++ b/console/cli/src/lib.rs
+@@ -52,6 +52,10 @@ pub async fn run(cli: Cli) -> Result<i32, CliError> {
+     let root = PathBuf::from(&cli.repo)
+         .canonicalize()
+         .map_err(|e| CliError(format!("cannot find repository `{}`: {e}", cli.repo)))?;
++    let root = match cli.command {
++        Command::Init { .. } => root,
++        _ => probes::workspace_root(&root),
++    };
+ 
+     if let Command::Publish {
+         from,
+diff --git a/console/cli/src/probes.rs b/console/cli/src/probes.rs
+index 0cc6107..3071010 100644
+--- a/console/cli/src/probes.rs
++++ b/console/cli/src/probes.rs
+@@ -553,6 +553,14 @@ pub fn stem_of(segment: &str) -> Option<&str> {
+     gmr_transport::file::Shaped::of_extension(ext).map(|_| stem)
+ }
+ 
++pub fn workspace_root(start: &Path) -> PathBuf {
++    start
++        .ancestors()
++        .find(|dir| anchor_dir(dir).is_dir())
++        .unwrap_or(start)
++        .to_path_buf()
++}
++
+ pub fn anchor_dir(root: &Path) -> PathBuf {
+     root.join(".anchor")
+ }

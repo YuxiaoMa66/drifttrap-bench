@@ -1,0 +1,7 @@
+{
+  "case_id": "sweci-sanic-6",
+  "drifted_keys": [
+    "Cookie 属性"
+  ],
+  "trap_signature": "not subscriptable|has no attribute 'get'"
+}
