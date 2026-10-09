@@ -154,15 +154,6 @@ git -C GMR-latest checkout 7bee2a081a455e9d48331af7594ee50508588d77 && git -C GM
 cargo build --release --manifest-path GMR-latest/Cargo.toml
 ```
 
-## Limitations
-
-- Most task text, hidden tests and reference patches were written by Claude Opus 5.5; MAIN-pilot and five pilot-b tasks were reviewed read-only by a second model, the rest were not independently reviewed. The English translation was not independently reviewed either.
-- The systematic search had a single screener (self-agreement 99.6% on a blind 20% re-screen, not inter-rater reliability).
-- On the shipped L1 conditions the hash baseline agrees with the labels as fully as GMR does: L1 shows a detector is not broken, not that it understands what changed. `moved_valid` fixtures and over-hand-back on real commits are where detectors would differ; v1's confirmatory study does not measure that cost.
-- Effects are compared within a subject model, never across subjects running in different agent frameworks.
-- The harness is macOS-only; subjects, CLIs and detectors are pinned versions per study.
-- The benchmark's author is the developer of GMR, the first detector evaluated.
-
 ## Citing
 
 When citing the v1 GMR study, cite tag `v1.0-frozen` of this repository; for later use, cite the release you used.
